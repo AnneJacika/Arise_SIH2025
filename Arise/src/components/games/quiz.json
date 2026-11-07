@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What are the fundamental characteristics of every living being mentioned in the text?",
+    "options": [
+      "Birth, growth, reproduction, and sleep",
+      "Birth, growth and development, reproduction, and death",
+      "Eating, sleeping, breathing, and walking",
+      "Thinking, feeling, learning, and teaching"
+    ],
+    "correct_answer": "Birth, growth and development, reproduction, and death"
+  },
+  {
+    "question": "Why is food essential for living beings?",
+    "options": [
+      "To make them smarter",
+      "To help them sleep better",
+      "To obtain energy for all activities",
+      "To make them grow taller"
+    ],
+    "correct_answer": "To obtain energy for all activities"
+  },
+  {
+    "question": "What is considered the source of life, fulfilling all basic necessities?",
+    "options": [
+      "Water",
+      "Sleep",
+      "Air",
+      "Food"
+    ],
+    "correct_answer": "Food"
+  },
+  {
+    "question": "What three main things are required to cook rice?",
+    "options": [
+      "Rice grains, oil, and salt",
+      "Rice grains, water, and heat",
+      "Rice grains, vegetables, and spices",
+      "Rice grains, milk, and sugar"
+    ],
+    "correct_answer": "Rice grains, water, and heat"
+  },
+  {
+    "question": "From which sources are salt and water NOT obtained, according to the text?",
+    "options": [
+      "Plants and air",
+      "Animals and minerals",
+      "Animals and plants",
+      "Ocean and ground"
+    ],
+    "correct_answer": "Animals and plants"
+  },
+  {
+    "question": "Where are most of the ingredients in the food we consume primarily sourced from?",
+    "options": [
+      "Animals",
+      "Factories",
+      "Plants",
+      "Minerals"
+    ],
+    "correct_answer": "Plants"
+  },
+  {
+    "question": "What are animals that consume only plants or plant-based products called?",
+    "options": [
+      "Carnivores",
+      "Omnivores",
+      "Herbivores",
+      "Vegetarians"
+    ],
+    "correct_answer": "Herbivores"
+  },
+  {
+    "question": "What are animals that eat only other animals called?",
+    "options": [
+      "Herbivores",
+      "Omnivores",
+      "Carnivores",
+      "Frugivores"
+    ],
+    "correct_answer": "Carnivores"
+  },
+  {
+    "question": "What are animals that consume both plants and animals called?",
+    "options": [
+      "Herbivores",
+      "Carnivores",
+      "Omnivores",
+      "Scavengers"
+    ],
+    "correct_answer": "Omnivores"
+  },
+  {
+    "question": "To which category do humans belong based on their food habits?",
+    "options": [
+      "Herbivore",
+      "Carnivore",
+      "Omnivore",
+      "Insectivore"
+    ],
+    "correct_answer": "Omnivore"
+  }
+]

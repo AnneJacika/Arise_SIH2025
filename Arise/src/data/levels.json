@@ -1,0 +1,1258 @@
+{
+  "levelrewards": {
+    "grade6": {
+      "rewards": {
+        "0": {
+          "reward": "Bronze Sword",
+          "coins": 50,
+          "badge": "Recruit Badge",
+          "sublevels": {
+            "200": { "reward": "Small Health Potion", "coins": 20, "badge": "Potion Novice" },
+            "400": { "reward": "Wooden Shield", "coins": 20, "badge": "Block Practice" },
+            "600": { "reward": "Minor Mana Potion", "coins": 20, "badge": "Magic Dabbler" },
+            "800": { "reward": "Sharpening Stone", "coins": 20, "badge": "Keen Edge" }
+          }
+        },
+        "1000": {
+          "reward": "Iron Helm",
+          "coins": 100,
+          "badge": "Apprentice Badge",
+          "sublevels": {
+            "1200": { "reward": "Small Health Potion", "coins": 20, "badge": "Potion Novice" },
+            "1400": { "reward": "Wooden Shield", "coins": 20, "badge": "Block Practice" },
+            "1600": { "reward": "Minor Mana Potion", "coins": 20, "badge": "Magic Dabbler" },
+            "1800": { "reward": "Sharpening Stone", "coins": 20, "badge": "Keen Edge" }
+          }
+        },
+        "2000": {
+          "reward": "Steel Chestplate",
+          "coins": 150,
+          "badge": "Journeyman Badge",
+          "sublevels": {
+            "2200": { "reward": "Medium Health Potion", "coins": 20, "badge": "Potion Adept" },
+            "2400": { "reward": "Reinforced Shield", "coins": 20, "badge": "Shield Wall" },
+            "2600": { "reward": "Standard Mana Potion", "coins": 20, "badge": "Magic Adept" },
+            "2800": { "reward": "Scroll of Haste", "coins": 20, "badge": "Swift Action" }
+          }
+        },
+        "3000": {
+          "reward": "Silver Blade",
+          "coins": 200,
+          "badge": "Warrior Badge",
+          "sublevels": {
+            "3200": { "reward": "Medium Health Potion", "coins": 20, "badge": "Potion Adept" },
+            "3400": { "reward": "Reinforced Shield", "coins": 20, "badge": "Shield Wall" },
+            "3600": { "reward": "Standard Mana Potion", "coins": 20, "badge": "Magic Adept" },
+            "3800": { "reward": "Scroll of Haste", "coins": 20, "badge": "Swift Action" }
+          }
+        },
+        "4000": {
+          "reward": "Golden Gauntlets",
+          "coins": 250,
+          "badge": "Knight Badge",
+          "sublevels": {
+            "4200": { "reward": "Large Health Potion", "coins": 20, "badge": "Potion Expert" },
+            "4400": { "reward": "Tower Shield", "coins": 20, "badge": "Guardian Stance" },
+            "4600": { "reward": "Greater Mana Potion", "coins": 20, "badge": "Magic Expert" },
+            "4800": { "reward": "Elixir of Strength", "coins": 20, "badge": "Empowered" }
+          }
+        },
+        "5000": {
+          "reward": "Enchanted Bow",
+          "coins": 300,
+          "badge": "Ranger Badge",
+          "sublevels": {
+            "5200": { "reward": "Large Health Potion", "coins": 20, "badge": "Potion Expert" },
+            "5400": { "reward": "Tower Shield", "coins": 20, "badge": "Guardian Stance" },
+            "5600": { "reward": "Greater Mana Potion", "coins": 20, "badge": "Magic Expert" },
+            "5800": { "reward": "Elixir of Strength", "coins": 20, "badge": "Empowered" }
+          }
+        },
+        "6000": {
+          "reward": "Mithril Armor",
+          "coins": 350,
+          "badge": "Captain Badge",
+          "sublevels": {
+            "6200": { "reward": "Superior Health Potion", "coins": 20, "badge": "Potion Master" },
+            "6400": { "reward": "Aegis Shield", "coins": 20, "badge": "Impenetrable" },
+            "6600": { "reward": "Superior Mana Potion", "coins": 20, "badge": "Magic Master" },
+            "6800": { "reward": "Amulet of Protection", "coins": 20, "badge": "Warded" }
+          }
+        },
+        "7000": {
+          "reward": "Adamantite Greaves",
+          "coins": 400,
+          "badge": "Commander Badge",
+          "sublevels": {
+            "7200": { "reward": "Superior Health Potion", "coins": 20, "badge": "Potion Master" },
+            "7400": { "reward": "Aegis Shield", "coins": 20, "badge": "Impenetrable" },
+            "7600": { "reward": "Superior Mana Potion", "coins": 20, "badge": "Magic Master" },
+            "7800": { "reward": "Amulet of Protection", "coins": 20, "badge": "Warded" }
+          }
+        },
+        "8000": {
+          "reward": "Crystal Longsword",
+          "coins": 450,
+          "badge": "Champion Badge",
+          "sublevels": {
+            "8200": { "reward": "Grand Health Potion", "coins": 20, "badge": "Potion Grandmaster" },
+            "8400": { "reward": "Reflective Shield", "coins": 20, "badge": "Spellguard" },
+            "8600": { "reward": "Grand Mana Potion", "coins": 20, "badge": "Magic Grandmaster" },
+            "8800": { "reward": "Ring of Power", "coins": 20, "badge": "Arcane Might" }
+          }
+        },
+        "9000": {
+          "reward": "Obsidian Daggers",
+          "coins": 500,
+          "badge": "Assassin Badge",
+          "sublevels": {
+            "9200": { "reward": "Grand Health Potion", "coins": 20, "badge": "Potion Grandmaster" },
+            "9400": { "reward": "Reflective Shield", "coins": 20, "badge": "Spellguard" },
+            "9600": { "reward": "Grand Mana Potion", "coins": 20, "badge": "Magic Grandmaster" },
+            "9800": { "reward": "Ring of Power", "coins": 20, "badge": "Arcane Might" }
+          }
+        },
+        "10000": {
+          "reward": "Dragonscale Mail",
+          "coins": 550,
+          "badge": "Lord Badge",
+          "sublevels": {
+            "10200": { "reward": "Perfect Health Potion", "coins": 20, "badge": "Alchemist" },
+            "10400": { "reward": "Dragon's Breath Shield", "coins": 20, "badge": "Fireproof" },
+            "10600": { "reward": "Perfect Mana Potion", "coins": 20, "badge": "Archmage" },
+            "10800": { "reward": "Phoenix Down", "coins": 20, "badge": "Rebirth" }
+          }
+        },
+        "11000": {
+          "reward": "Sunfire Warhammer",
+          "coins": 600,
+          "badge": "Paladin Badge",
+          "sublevels": {
+            "11200": { "reward": "Perfect Health Potion", "coins": 20, "badge": "Alchemist" },
+            "11400": { "reward": "Dragon's Breath Shield", "coins": 20, "badge": "Fireproof" },
+            "11600": { "reward": "Perfect Mana Potion", "coins": 20, "badge": "Archmage" },
+            "11800": { "reward": "Phoenix Down", "coins": 20, "badge": "Rebirth" }
+          }
+        },
+        "12000": {
+          "reward": "Celestial Robes",
+          "coins": 650,
+          "badge": "Archon Badge",
+          "sublevels": {
+            "12200": { "reward": "Elixir of Life", "coins": 20, "badge": "Immortal" },
+            "12400": { "reward": "Celestial Aegis", "coins": 20, "badge": "Divine Guard" },
+            "12600": { "reward": "Elixir of Sorcery", "coins": 20, "badge": "Infinite Mana" },
+            "12800": { "reward": "Tome of Knowledge", "coins": 20, "badge": "All-Knowing" }
+          }
+        },
+        "13000": {
+          "reward": "Void-forged Katana",
+          "coins": 700,
+          "badge": "Master Badge",
+          "sublevels": {
+            "13200": { "reward": "Elixir of Life", "coins": 20, "badge": "Immortal" },
+            "13400": { "reward": "Celestial Aegis", "coins": 20, "badge": "Divine Guard" },
+            "13600": { "reward": "Elixir of Sorcery", "coins": 20, "badge": "Infinite Mana" },
+            "13800": { "reward": "Tome of Knowledge", "coins": 20, "badge": "All-Knowing" }
+          }
+        },
+        "14000": {
+          "reward": "Aetherium Crown",
+          "coins": 750,
+          "badge": "Grandmaster Badge",
+          "sublevels": {
+            "14200": { "reward": "Philosopher's Stone", "coins": 20, "badge": "Perfection" },
+            "14400": { "reward": "Aetherium Wall", "coins": 20, "badge": "Unbreakable" },
+            "14600": { "reward": "Essence of the Cosmos", "coins": 20, "badge": "Boundless" },
+            "14800": { "reward": "Rune of Ascendance", "coins": 20, "badge": "Transcendent" }
+          }
+        },
+        "15000": {
+          "reward": "Mythic Guardian Armor",
+          "coins": 800,
+          "badge": "Legendary Hero Badge"
+        }
+      }
+    },
+    "grade7": {
+      "rewards": {
+        "0": {
+          "reward": "Bronze Sword",
+          "coins": 60,
+          "badge": "Recruit Badge",
+          "sublevels": {
+            "200": { "reward": "Small Health Potion", "coins": 25, "badge": "Potion Novice" },
+            "400": { "reward": "Wooden Shield", "coins": 25, "badge": "Block Practice" },
+            "600": { "reward": "Minor Mana Potion", "coins": 25, "badge": "Magic Dabbler" },
+            "800": { "reward": "Sharpening Stone", "coins": 25, "badge": "Keen Edge" }
+          }
+        },
+        "1000": {
+          "reward": "Iron Helm",
+          "coins": 110,
+          "badge": "Apprentice Badge",
+          "sublevels": {
+            "1200": { "reward": "Small Health Potion", "coins": 25, "badge": "Potion Novice" },
+            "1400": { "reward": "Wooden Shield", "coins": 25, "badge": "Block Practice" },
+            "1600": { "reward": "Minor Mana Potion", "coins": 25, "badge": "Magic Dabbler" },
+            "1800": { "reward": "Sharpening Stone", "coins": 25, "badge": "Keen Edge" }
+          }
+        },
+        "2000": {
+          "reward": "Steel Chestplate",
+          "coins": 160,
+          "badge": "Journeyman Badge",
+          "sublevels": {
+            "2200": { "reward": "Medium Health Potion", "coins": 25, "badge": "Potion Adept" },
+            "2400": { "reward": "Reinforced Shield", "coins": 25, "badge": "Shield Wall" },
+            "2600": { "reward": "Standard Mana Potion", "coins": 25, "badge": "Magic Adept" },
+            "2800": { "reward": "Scroll of Haste", "coins": 25, "badge": "Swift Action" }
+          }
+        },
+        "3000": {
+          "reward": "Silver Blade",
+          "coins": 210,
+          "badge": "Warrior Badge",
+          "sublevels": {
+            "3200": { "reward": "Medium Health Potion", "coins": 25, "badge": "Potion Adept" },
+            "3400": { "reward": "Reinforced Shield", "coins": 25, "badge": "Shield Wall" },
+            "3600": { "reward": "Standard Mana Potion", "coins": 25, "badge": "Magic Adept" },
+            "3800": { "reward": "Scroll of Haste", "coins": 25, "badge": "Swift Action" }
+          }
+        },
+        "4000": {
+          "reward": "Golden Gauntlets",
+          "coins": 260,
+          "badge": "Knight Badge",
+          "sublevels": {
+            "4200": { "reward": "Large Health Potion", "coins": 25, "badge": "Potion Expert" },
+            "4400": { "reward": "Tower Shield", "coins": 25, "badge": "Guardian Stance" },
+            "4600": { "reward": "Greater Mana Potion", "coins": 25, "badge": "Magic Expert" },
+            "4800": { "reward": "Elixir of Strength", "coins": 25, "badge": "Empowered" }
+          }
+        },
+        "5000": {
+          "reward": "Enchanted Bow",
+          "coins": 310,
+          "badge": "Ranger Badge",
+          "sublevels": {
+            "5200": { "reward": "Large Health Potion", "coins": 25, "badge": "Potion Expert" },
+            "5400": { "reward": "Tower Shield", "coins": 25, "badge": "Guardian Stance" },
+            "5600": { "reward": "Greater Mana Potion", "coins": 25, "badge": "Magic Expert" },
+            "5800": { "reward": "Elixir of Strength", "coins": 25, "badge": "Empowered" }
+          }
+        },
+        "6000": {
+          "reward": "Mithril Armor",
+          "coins": 360,
+          "badge": "Captain Badge",
+          "sublevels": {
+            "6200": { "reward": "Superior Health Potion", "coins": 25, "badge": "Potion Master" },
+            "6400": { "reward": "Aegis Shield", "coins": 25, "badge": "Impenetrable" },
+            "6600": { "reward": "Superior Mana Potion", "coins": 25, "badge": "Magic Master" },
+            "6800": { "reward": "Amulet of Protection", "coins": 25, "badge": "Warded" }
+          }
+        },
+        "7000": {
+          "reward": "Adamantite Greaves",
+          "coins": 410,
+          "badge": "Commander Badge",
+          "sublevels": {
+            "7200": { "reward": "Superior Health Potion", "coins": 25, "badge": "Potion Master" },
+            "7400": { "reward": "Aegis Shield", "coins": 25, "badge": "Impenetrable" },
+            "7600": { "reward": "Superior Mana Potion", "coins": 25, "badge": "Magic Master" },
+            "7800": { "reward": "Amulet of Protection", "coins": 25, "badge": "Warded" }
+          }
+        },
+        "8000": {
+          "reward": "Crystal Longsword",
+          "coins": 460,
+          "badge": "Champion Badge",
+          "sublevels": {
+            "8200": { "reward": "Grand Health Potion", "coins": 25, "badge": "Potion Grandmaster" },
+            "8400": { "reward": "Reflective Shield", "coins": 25, "badge": "Spellguard" },
+            "8600": { "reward": "Grand Mana Potion", "coins": 25, "badge": "Magic Grandmaster" },
+            "8800": { "reward": "Ring of Power", "coins": 25, "badge": "Arcane Might" }
+          }
+        },
+        "9000": {
+          "reward": "Obsidian Daggers",
+          "coins": 510,
+          "badge": "Assassin Badge",
+          "sublevels": {
+            "9200": { "reward": "Grand Health Potion", "coins": 25, "badge": "Potion Grandmaster" },
+            "9400": { "reward": "Reflective Shield", "coins": 25, "badge": "Spellguard" },
+            "9600": { "reward": "Grand Mana Potion", "coins": 25, "badge": "Magic Grandmaster" },
+            "9800": { "reward": "Ring of Power", "coins": 25, "badge": "Arcane Might" }
+          }
+        },
+        "10000": {
+          "reward": "Dragonscale Mail",
+          "coins": 560,
+          "badge": "Lord Badge",
+          "sublevels": {
+            "10200": { "reward": "Perfect Health Potion", "coins": 25, "badge": "Alchemist" },
+            "10400": { "reward": "Dragon's Breath Shield", "coins": 25, "badge": "Fireproof" },
+            "10600": { "reward": "Perfect Mana Potion", "coins": 25, "badge": "Archmage" },
+            "10800": { "reward": "Phoenix Down", "coins": 25, "badge": "Rebirth" }
+          }
+        },
+        "11000": {
+          "reward": "Sunfire Warhammer",
+          "coins": 610,
+          "badge": "Paladin Badge",
+          "sublevels": {
+            "11200": { "reward": "Perfect Health Potion", "coins": 25, "badge": "Alchemist" },
+            "11400": { "reward": "Dragon's Breath Shield", "coins": 25, "badge": "Fireproof" },
+            "11600": { "reward": "Perfect Mana Potion", "coins": 25, "badge": "Archmage" },
+            "11800": { "reward": "Phoenix Down", "coins": 25, "badge": "Rebirth" }
+          }
+        },
+        "12000": {
+          "reward": "Celestial Robes",
+          "coins": 660,
+          "badge": "Archon Badge",
+          "sublevels": {
+            "12200": { "reward": "Elixir of Life", "coins": 25, "badge": "Immortal" },
+            "12400": { "reward": "Celestial Aegis", "coins": 25, "badge": "Divine Guard" },
+            "12600": { "reward": "Elixir of Sorcery", "coins": 25, "badge": "Infinite Mana" },
+            "12800": { "reward": "Tome of Knowledge", "coins": 25, "badge": "All-Knowing" }
+          }
+        },
+        "13000": {
+          "reward": "Void-forged Katana",
+          "coins": 710,
+          "badge": "Master Badge",
+          "sublevels": {
+            "13200": { "reward": "Elixir of Life", "coins": 25, "badge": "Immortal" },
+            "13400": { "reward": "Celestial Aegis", "coins": 25, "badge": "Divine Guard" },
+            "13600": { "reward": "Elixir of Sorcery", "coins": 25, "badge": "Infinite Mana" },
+            "13800": { "reward": "Tome of Knowledge", "coins": 25, "badge": "All-Knowing" }
+          }
+        },
+        "14000": {
+          "reward": "Aetherium Crown",
+          "coins": 760,
+          "badge": "Grandmaster Badge",
+          "sublevels": {
+            "14200": { "reward": "Philosopher's Stone", "coins": 25, "badge": "Perfection" },
+            "14400": { "reward": "Aetherium Wall", "coins": 25, "badge": "Unbreakable" },
+            "14600": { "reward": "Essence of the Cosmos", "coins": 25, "badge": "Boundless" },
+            "14800": { "reward": "Rune of Ascendance", "coins": 25, "badge": "Transcendent" }
+          }
+        },
+        "15000": {
+          "reward": "Mythic Guardian Armor",
+          "coins": 810,
+          "badge": "Legendary Hero Badge",
+          "sublevels": {
+            "15200": { "reward": "Philosopher's Stone", "coins": 25, "badge": "Perfection" },
+            "15400": { "reward": "Aetherium Wall", "coins": 25, "badge": "Unbreakable" },
+            "15600": { "reward": "Essence of the Cosmos", "coins": 25, "badge": "Boundless" },
+            "15800": { "reward": "Rune of Ascendance", "coins": 25, "badge": "Transcendent" }
+          }
+        }
+      }
+    },
+    "grade8": {
+      "rewards": {
+        "0": {
+          "reward": "Bronze Sword",
+          "coins": 70,
+          "badge": "Recruit Badge",
+          "sublevels": {
+            "200": { "reward": "Small Health Potion", "coins": 30, "badge": "Potion Novice" },
+            "400": { "reward": "Wooden Shield", "coins": 30, "badge": "Block Practice" },
+            "600": { "reward": "Minor Mana Potion", "coins": 30, "badge": "Magic Dabbler" },
+            "800": { "reward": "Sharpening Stone", "coins": 30, "badge": "Keen Edge" }
+          }
+        },
+        "1000": {
+          "reward": "Iron Helm",
+          "coins": 120,
+          "badge": "Apprentice Badge",
+          "sublevels": {
+            "1200": { "reward": "Small Health Potion", "coins": 30, "badge": "Potion Novice" },
+            "1400": { "reward": "Wooden Shield", "coins": 30, "badge": "Block Practice" },
+            "1600": { "reward": "Minor Mana Potion", "coins": 30, "badge": "Magic Dabbler" },
+            "1800": { "reward": "Sharpening Stone", "coins": 30, "badge": "Keen Edge" }
+          }
+        },
+        "2000": {
+          "reward": "Steel Chestplate",
+          "coins": 170,
+          "badge": "Journeyman Badge",
+          "sublevels": {
+            "2200": { "reward": "Medium Health Potion", "coins": 30, "badge": "Potion Adept" },
+            "2400": { "reward": "Reinforced Shield", "coins": 30, "badge": "Shield Wall" },
+            "2600": { "reward": "Standard Mana Potion", "coins": 30, "badge": "Magic Adept" },
+            "2800": { "reward": "Scroll of Haste", "coins": 30, "badge": "Swift Action" }
+          }
+        },
+        "3000": {
+          "reward": "Silver Blade",
+          "coins": 220,
+          "badge": "Warrior Badge",
+          "sublevels": {
+            "3200": { "reward": "Medium Health Potion", "coins": 30, "badge": "Potion Adept" },
+            "3400": { "reward": "Reinforced Shield", "coins": 30, "badge": "Shield Wall" },
+            "3600": { "reward": "Standard Mana Potion", "coins": 30, "badge": "Magic Adept" },
+            "3800": { "reward": "Scroll of Haste", "coins": 30, "badge": "Swift Action" }
+          }
+        },
+        "4000": {
+          "reward": "Golden Gauntlets",
+          "coins": 270,
+          "badge": "Knight Badge",
+          "sublevels": {
+            "4200": { "reward": "Large Health Potion", "coins": 30, "badge": "Potion Expert" },
+            "4400": { "reward": "Tower Shield", "coins": 30, "badge": "Guardian Stance" },
+            "4600": { "reward": "Greater Mana Potion", "coins": 30, "badge": "Magic Expert" },
+            "4800": { "reward": "Elixir of Strength", "coins": 30, "badge": "Empowered" }
+          }
+        },
+        "5000": {
+          "reward": "Enchanted Bow",
+          "coins": 320,
+          "badge": "Ranger Badge",
+          "sublevels": {
+            "5200": { "reward": "Large Health Potion", "coins": 30, "badge": "Potion Expert" },
+            "5400": { "reward": "Tower Shield", "coins": 30, "badge": "Guardian Stance" },
+            "5600": { "reward": "Greater Mana Potion", "coins": 30, "badge": "Magic Expert" },
+            "5800": { "reward": "Elixir of Strength", "coins": 30, "badge": "Empowered" }
+          }
+        },
+        "6000": {
+          "reward": "Mithril Armor",
+          "coins": 370,
+          "badge": "Captain Badge",
+          "sublevels": {
+            "6200": { "reward": "Superior Health Potion", "coins": 30, "badge": "Potion Master" },
+            "6400": { "reward": "Aegis Shield", "coins": 30, "badge": "Impenetrable" },
+            "6600": { "reward": "Superior Mana Potion", "coins": 30, "badge": "Magic Master" },
+            "6800": { "reward": "Amulet of Protection", "coins": 30, "badge": "Warded" }
+          }
+        },
+        "7000": {
+          "reward": "Adamantite Greaves",
+          "coins": 420,
+          "badge": "Commander Badge",
+          "sublevels": {
+            "7200": { "reward": "Superior Health Potion", "coins": 30, "badge": "Potion Master" },
+            "7400": { "reward": "Aegis Shield", "coins": 30, "badge": "Impenetrable" },
+            "7600": { "reward": "Superior Mana Potion", "coins": 30, "badge": "Magic Master" },
+            "7800": { "reward": "Amulet of Protection", "coins": 30, "badge": "Warded" }
+          }
+        },
+        "8000": {
+          "reward": "Crystal Longsword",
+          "coins": 470,
+          "badge": "Champion Badge",
+          "sublevels": {
+            "8200": { "reward": "Grand Health Potion", "coins": 30, "badge": "Potion Grandmaster" },
+            "8400": { "reward": "Reflective Shield", "coins": 30, "badge": "Spellguard" },
+            "8600": { "reward": "Grand Mana Potion", "coins": 30, "badge": "Magic Grandmaster" },
+            "8800": { "reward": "Ring of Power", "coins": 30, "badge": "Arcane Might" }
+          }
+        },
+        "9000": {
+          "reward": "Obsidian Daggers",
+          "coins": 520,
+          "badge": "Assassin Badge",
+          "sublevels": {
+            "9200": { "reward": "Grand Health Potion", "coins": 30, "badge": "Potion Grandmaster" },
+            "9400": { "reward": "Reflective Shield", "coins": 30, "badge": "Spellguard" },
+            "9600": { "reward": "Grand Mana Potion", "coins": 30, "badge": "Magic Grandmaster" },
+            "9800": { "reward": "Ring of Power", "coins": 30, "badge": "Arcane Might" }
+          }
+        },
+        "10000": {
+          "reward": "Dragonscale Mail",
+          "coins": 570,
+          "badge": "Lord Badge",
+          "sublevels": {
+            "10200": { "reward": "Perfect Health Potion", "coins": 30, "badge": "Alchemist" },
+            "10400": { "reward": "Dragon's Breath Shield", "coins": 30, "badge": "Fireproof" },
+            "10600": { "reward": "Perfect Mana Potion", "coins": 30, "badge": "Archmage" },
+            "10800": { "reward": "Phoenix Down", "coins": 30, "badge": "Rebirth" }
+          }
+        },
+        "11000": {
+          "reward": "Sunfire Warhammer",
+          "coins": 620,
+          "badge": "Paladin Badge",
+          "sublevels": {
+            "11200": { "reward": "Perfect Health Potion", "coins": 30, "badge": "Alchemist" },
+            "11400": { "reward": "Dragon's Breath Shield", "coins": 30, "badge": "Fireproof" },
+            "11600": { "reward": "Perfect Mana Potion", "coins": 30, "badge": "Archmage" },
+            "11800": { "reward": "Phoenix Down", "coins": 30, "badge": "Rebirth" }
+          }
+        },
+        "12000": {
+          "reward": "Celestial Robes",
+          "coins": 670,
+          "badge": "Archon Badge",
+          "sublevels": {
+            "12200": { "reward": "Elixir of Life", "coins": 30, "badge": "Immortal" },
+            "12400": { "reward": "Celestial Aegis", "coins": 30, "badge": "Divine Guard" },
+            "12600": { "reward": "Elixir of Sorcery", "coins": 30, "badge": "Infinite Mana" },
+            "12800": { "reward": "Tome of Knowledge", "coins": 30, "badge": "All-Knowing" }
+          }
+        },
+        "13000": {
+          "reward": "Void-forged Katana",
+          "coins": 720,
+          "badge": "Master Badge",
+          "sublevels": {
+            "13200": { "reward": "Elixir of Life", "coins": 30, "badge": "Immortal" },
+            "13400": { "reward": "Celestial Aegis", "coins": 30, "badge": "Divine Guard" },
+            "13600": { "reward": "Elixir of Sorcery", "coins": 30, "badge": "Infinite Mana" },
+            "13800": { "reward": "Tome of Knowledge", "coins": 30, "badge": "All-Knowing" }
+          }
+        },
+        "14000": {
+          "reward": "Aetherium Crown",
+          "coins": 770,
+          "badge": "Grandmaster Badge",
+          "sublevels": {
+            "14200": { "reward": "Philosopher's Stone", "coins": 30, "badge": "Perfection" },
+            "14400": { "reward": "Aetherium Wall", "coins": 30, "badge": "Unbreakable" },
+            "14600": { "reward": "Essence of the Cosmos", "coins": 30, "badge": "Boundless" },
+            "14800": { "reward": "Rune of Ascendance", "coins": 30, "badge": "Transcendent" }
+          }
+        },
+        "15000": {
+          "reward": "Mythic Guardian Armor",
+          "coins": 820,
+          "badge": "Legendary Hero Badge",
+          "sublevels": {
+            "15200": { "reward": "Philosopher's Stone", "coins": 30, "badge": "Perfection" },
+            "15400": { "reward": "Aetherium Wall", "coins": 30, "badge": "Unbreakable" },
+            "15600": { "reward": "Essence of the Cosmos", "coins": 30, "badge": "Boundless" },
+            "15800": { "reward": "Rune of Ascendance", "coins": 30, "badge": "Transcendent" }
+          }
+        }
+      }
+    },
+    "grade9": {
+      "rewards": {
+        "0": {
+          "reward": "Bronze Sword",
+          "coins": 80,
+          "badge": "Recruit Badge",
+          "sublevels": {
+            "200": { "reward": "Small Health Potion", "coins": 35, "badge": "Potion Novice" },
+            "400": { "reward": "Wooden Shield", "coins": 35, "badge": "Block Practice" },
+            "600": { "reward": "Minor Mana Potion", "coins": 35, "badge": "Magic Dabbler" },
+            "800": { "reward": "Sharpening Stone", "coins": 35, "badge": "Keen Edge" }
+          }
+        },
+        "1000": {
+          "reward": "Iron Helm",
+          "coins": 130,
+          "badge": "Apprentice Badge",
+          "sublevels": {
+            "1200": { "reward": "Small Health Potion", "coins": 35, "badge": "Potion Novice" },
+            "1400": { "reward": "Wooden Shield", "coins": 35, "badge": "Block Practice" },
+            "1600": { "reward": "Minor Mana Potion", "coins": 35, "badge": "Magic Dabbler" },
+            "1800": { "reward": "Sharpening Stone", "coins": 35, "badge": "Keen Edge" }
+          }
+        },
+        "2000": {
+          "reward": "Steel Chestplate",
+          "coins": 180,
+          "badge": "Journeyman Badge",
+          "sublevels": {
+            "2200": { "reward": "Medium Health Potion", "coins": 35, "badge": "Potion Adept" },
+            "2400": { "reward": "Reinforced Shield", "coins": 35, "badge": "Shield Wall" },
+            "2600": { "reward": "Standard Mana Potion", "coins": 35, "badge": "Magic Adept" },
+            "2800": { "reward": "Scroll of Haste", "coins": 35, "badge": "Swift Action" }
+          }
+        },
+        "3000": {
+          "reward": "Silver Blade",
+          "coins": 230,
+          "badge": "Warrior Badge",
+          "sublevels": {
+            "3200": { "reward": "Medium Health Potion", "coins": 35, "badge": "Potion Adept" },
+            "3400": { "reward": "Reinforced Shield", "coins": 35, "badge": "Shield Wall" },
+            "3600": { "reward": "Standard Mana Potion", "coins": 35, "badge": "Magic Adept" },
+            "3800": { "reward": "Scroll of Haste", "coins": 35, "badge": "Swift Action" }
+          }
+        },
+        "4000": {
+          "reward": "Golden Gauntlets",
+          "coins": 280,
+          "badge": "Knight Badge",
+          "sublevels": {
+            "4200": { "reward": "Large Health Potion", "coins": 35, "badge": "Potion Expert" },
+            "4400": { "reward": "Tower Shield", "coins": 35, "badge": "Guardian Stance" },
+            "4600": { "reward": "Greater Mana Potion", "coins": 35, "badge": "Magic Expert" },
+            "4800": { "reward": "Elixir of Strength", "coins": 35, "badge": "Empowered" }
+          }
+        },
+        "5000": {
+          "reward": "Enchanted Bow",
+          "coins": 330,
+          "badge": "Ranger Badge",
+          "sublevels": {
+            "5200": { "reward": "Large Health Potion", "coins": 35, "badge": "Potion Expert" },
+            "5400": { "reward": "Tower Shield", "coins": 35, "badge": "Guardian Stance" },
+            "5600": { "reward": "Greater Mana Potion", "coins": 35, "badge": "Magic Expert" },
+            "5800": { "reward": "Elixir of Strength", "coins": 35, "badge": "Empowered" }
+          }
+        },
+        "6000": {
+          "reward": "Mithril Armor",
+          "coins": 380,
+          "badge": "Captain Badge",
+          "sublevels": {
+            "6200": { "reward": "Superior Health Potion", "coins": 35, "badge": "Potion Master" },
+            "6400": { "reward": "Aegis Shield", "coins": 35, "badge": "Impenetrable" },
+            "6600": { "reward": "Superior Mana Potion", "coins": 35, "badge": "Magic Master" },
+            "6800": { "reward": "Amulet of Protection", "coins": 35, "badge": "Warded" }
+          }
+        },
+        "7000": {
+          "reward": "Adamantite Greaves",
+          "coins": 430,
+          "badge": "Commander Badge",
+          "sublevels": {
+            "7200": { "reward": "Superior Health Potion", "coins": 35, "badge": "Potion Master" },
+            "7400": { "reward": "Aegis Shield", "coins": 35, "badge": "Impenetrable" },
+            "7600": { "reward": "Superior Mana Potion", "coins": 35, "badge": "Magic Master" },
+            "7800": { "reward": "Amulet of Protection", "coins": 35, "badge": "Warded" }
+          }
+        },
+        "8000": {
+          "reward": "Crystal Longsword",
+          "coins": 480,
+          "badge": "Champion Badge",
+          "sublevels": {
+            "8200": { "reward": "Grand Health Potion", "coins": 35, "badge": "Potion Grandmaster" },
+            "8400": { "reward": "Reflective Shield", "coins": 35, "badge": "Spellguard" },
+            "8600": { "reward": "Grand Mana Potion", "coins": 35, "badge": "Magic Grandmaster" },
+            "8800": { "reward": "Ring of Power", "coins": 35, "badge": "Arcane Might" }
+          }
+        },
+        "9000": {
+          "reward": "Obsidian Daggers",
+          "coins": 530,
+          "badge": "Assassin Badge",
+          "sublevels": {
+            "9200": { "reward": "Grand Health Potion", "coins": 35, "badge": "Potion Grandmaster" },
+            "9400": { "reward": "Reflective Shield", "coins": 35, "badge": "Spellguard" },
+            "9600": { "reward": "Grand Mana Potion", "coins": 35, "badge": "Magic Grandmaster" },
+            "9800": { "reward": "Ring of Power", "coins": 35, "badge": "Arcane Might" }
+          }
+        },
+        "10000": {
+          "reward": "Dragonscale Mail",
+          "coins": 580,
+          "badge": "Lord Badge",
+          "sublevels": {
+            "10200": { "reward": "Perfect Health Potion", "coins": 35, "badge": "Alchemist" },
+            "10400": { "reward": "Dragon's Breath Shield", "coins": 35, "badge": "Fireproof" },
+            "10600": { "reward": "Perfect Mana Potion", "coins": 35, "badge": "Archmage" },
+            "10800": { "reward": "Phoenix Down", "coins": 35, "badge": "Rebirth" }
+          }
+        },
+        "11000": {
+          "reward": "Sunfire Warhammer",
+          "coins": 630,
+          "badge": "Paladin Badge",
+          "sublevels": {
+            "11200": { "reward": "Perfect Health Potion", "coins": 35, "badge": "Alchemist" },
+            "11400": { "reward": "Dragon's Breath Shield", "coins": 35, "badge": "Fireproof" },
+            "11600": { "reward": "Perfect Mana Potion", "coins": 35, "badge": "Archmage" },
+            "11800": { "reward": "Phoenix Down", "coins": 35, "badge": "Rebirth" }
+          }
+        },
+        "12000": {
+          "reward": "Celestial Robes",
+          "coins": 680,
+          "badge": "Archon Badge",
+          "sublevels": {
+            "12200": { "reward": "Elixir of Life", "coins": 35, "badge": "Immortal" },
+            "12400": { "reward": "Celestial Aegis", "coins": 35, "badge": "Divine Guard" },
+            "12600": { "reward": "Elixir of Sorcery", "coins": 35, "badge": "Infinite Mana" },
+            "12800": { "reward": "Tome of Knowledge", "coins": 35, "badge": "All-Knowing" }
+          }
+        },
+        "13000": {
+          "reward": "Void-forged Katana",
+          "coins": 730,
+          "badge": "Master Badge",
+          "sublevels": {
+            "13200": { "reward": "Elixir of Life", "coins": 35, "badge": "Immortal" },
+            "13400": { "reward": "Celestial Aegis", "coins": 35, "badge": "Divine Guard" },
+            "13600": { "reward": "Elixir of Sorcery", "coins": 35, "badge": "Infinite Mana" },
+            "13800": { "reward": "Tome of Knowledge", "coins": 35, "badge": "All-Knowing" }
+          }
+        },
+        "14000": {
+          "reward": "Aetherium Crown",
+          "coins": 780,
+          "badge": "Grandmaster Badge",
+          "sublevels": {
+            "14200": { "reward": "Philosopher's Stone", "coins": 35, "badge": "Perfection" },
+            "14400": { "reward": "Aetherium Wall", "coins": 35, "badge": "Unbreakable" },
+            "14600": { "reward": "Essence of the Cosmos", "coins": 35, "badge": "Boundless" },
+            "14800": { "reward": "Rune of Ascendance", "coins": 35, "badge": "Transcendent" }
+          }
+        },
+        "15000": {
+          "reward": "Mythic Guardian Armor",
+          "coins": 830,
+          "badge": "Legendary Hero Badge",
+          "sublevels": {
+            "15200": { "reward": "Philosopher's Stone", "coins": 35, "badge": "Perfection" },
+            "15400": { "reward": "Aetherium Wall", "coins": 35, "badge": "Unbreakable" },
+            "15600": { "reward": "Essence of the Cosmos", "coins": 35, "badge": "Boundless" },
+            "15800": { "reward": "Rune of Ascendance", "coins": 35, "badge": "Transcendent" }
+          }
+        }
+      }
+    },
+    "grade10": {
+      "rewards": {
+        "0": {
+          "reward": "Bronze Sword",
+          "coins": 90,
+          "badge": "Recruit Badge",
+          "sublevels": {
+            "200": { "reward": "Small Health Potion", "coins": 40, "badge": "Potion Novice" },
+            "400": { "reward": "Wooden Shield", "coins": 40, "badge": "Block Practice" },
+            "600": { "reward": "Minor Mana Potion", "coins": 40, "badge": "Magic Dabbler" },
+            "800": { "reward": "Sharpening Stone", "coins": 40, "badge": "Keen Edge" }
+          }
+        },
+        "1000": {
+          "reward": "Iron Helm",
+          "coins": 140,
+          "badge": "Apprentice Badge",
+          "sublevels": {
+            "1200": { "reward": "Small Health Potion", "coins": 40, "badge": "Potion Novice" },
+            "1400": { "reward": "Wooden Shield", "coins": 40, "badge": "Block Practice" },
+            "1600": { "reward": "Minor Mana Potion", "coins": 40, "badge": "Magic Dabbler" },
+            "1800": { "reward": "Sharpening Stone", "coins": 40, "badge": "Keen Edge" }
+          }
+        },
+        "2000": {
+          "reward": "Steel Chestplate",
+          "coins": 190,
+          "badge": "Journeyman Badge",
+          "sublevels": {
+            "2200": { "reward": "Medium Health Potion", "coins": 40, "badge": "Potion Adept" },
+            "2400": { "reward": "Reinforced Shield", "coins": 40, "badge": "Shield Wall" },
+            "2600": { "reward": "Standard Mana Potion", "coins": 40, "badge": "Magic Adept" },
+            "2800": { "reward": "Scroll of Haste", "coins": 40, "badge": "Swift Action" }
+          }
+        },
+        "3000": {
+          "reward": "Silver Blade",
+          "coins": 240,
+          "badge": "Warrior Badge",
+          "sublevels": {
+            "3200": { "reward": "Medium Health Potion", "coins": 40, "badge": "Potion Adept" },
+            "3400": { "reward": "Reinforced Shield", "coins": 40, "badge": "Shield Wall" },
+            "3600": { "reward": "Standard Mana Potion", "coins": 40, "badge": "Magic Adept" },
+            "3800": { "reward": "Scroll of Haste", "coins": 40, "badge": "Swift Action" }
+          }
+        },
+        "4000": {
+          "reward": "Golden Gauntlets",
+          "coins": 290,
+          "badge": "Knight Badge",
+          "sublevels": {
+            "4200": { "reward": "Large Health Potion", "coins": 40, "badge": "Potion Expert" },
+            "4400": { "reward": "Tower Shield", "coins": 40, "badge": "Guardian Stance" },
+            "4600": { "reward": "Greater Mana Potion", "coins": 40, "badge": "Magic Expert" },
+            "4800": { "reward": "Elixir of Strength", "coins": 40, "badge": "Empowered" }
+          }
+        },
+        "5000": {
+          "reward": "Enchanted Bow",
+          "coins": 340,
+          "badge": "Ranger Badge",
+          "sublevels": {
+            "5200": { "reward": "Large Health Potion", "coins": 40, "badge": "Potion Expert" },
+            "5400": { "reward": "Tower Shield", "coins": 40, "badge": "Guardian Stance" },
+            "5600": { "reward": "Greater Mana Potion", "coins": 40, "badge": "Magic Expert" },
+            "5800": { "reward": "Elixir of Strength", "coins": 40, "badge": "Empowered" }
+          }
+        },
+        "6000": {
+          "reward": "Mithril Armor",
+          "coins": 390,
+          "badge": "Captain Badge",
+          "sublevels": {
+            "6200": { "reward": "Superior Health Potion", "coins": 40, "badge": "Potion Master" },
+            "6400": { "reward": "Aegis Shield", "coins": 40, "badge": "Impenetrable" },
+            "6600": { "reward": "Superior Mana Potion", "coins": 40, "badge": "Magic Master" },
+            "6800": { "reward": "Amulet of Protection", "coins": 40, "badge": "Warded" }
+          }
+        },
+        "7000": {
+          "reward": "Adamantite Greaves",
+          "coins": 440,
+          "badge": "Commander Badge",
+          "sublevels": {
+            "7200": { "reward": "Superior Health Potion", "coins": 40, "badge": "Potion Master" },
+            "7400": { "reward": "Aegis Shield", "coins": 40, "badge": "Impenetrable" },
+            "7600": { "reward": "Superior Mana Potion", "coins": 40, "badge": "Magic Master" },
+            "7800": { "reward": "Amulet of Protection", "coins": 40, "badge": "Warded" }
+          }
+        },
+        "8000": {
+          "reward": "Crystal Longsword",
+          "coins": 490,
+          "badge": "Champion Badge",
+          "sublevels": {
+            "8200": { "reward": "Grand Health Potion", "coins": 40, "badge": "Potion Grandmaster" },
+            "8400": { "reward": "Reflective Shield", "coins": 40, "badge": "Spellguard" },
+            "8600": { "reward": "Grand Mana Potion", "coins": 40, "badge": "Magic Grandmaster" },
+            "8800": { "reward": "Ring of Power", "coins": 40, "badge": "Arcane Might" }
+          }
+        },
+        "9000": {
+          "reward": "Obsidian Daggers",
+          "coins": 540,
+          "badge": "Assassin Badge",
+          "sublevels": {
+            "9200": { "reward": "Grand Health Potion", "coins": 40, "badge": "Potion Grandmaster" },
+            "9400": { "reward": "Reflective Shield", "coins": 40, "badge": "Spellguard" },
+            "9600": { "reward": "Grand Mana Potion", "coins": 40, "badge": "Magic Grandmaster" },
+            "9800": { "reward": "Ring of Power", "coins": 40, "badge": "Arcane Might" }
+          }
+        },
+        "10000": {
+          "reward": "Dragonscale Mail",
+          "coins": 590,
+          "badge": "Lord Badge",
+          "sublevels": {
+            "10200": { "reward": "Perfect Health Potion", "coins": 40, "badge": "Alchemist" },
+            "10400": { "reward": "Dragon's Breath Shield", "coins": 40, "badge": "Fireproof" },
+            "10600": { "reward": "Perfect Mana Potion", "coins": 40, "badge": "Archmage" },
+            "10800": { "reward": "Phoenix Down", "coins": 40, "badge": "Rebirth" }
+          }
+        },
+        "11000": {
+          "reward": "Sunfire Warhammer",
+          "coins": 640,
+          "badge": "Paladin Badge",
+          "sublevels": {
+            "11200": { "reward": "Perfect Health Potion", "coins": 40, "badge": "Alchemist" },
+            "11400": { "reward": "Dragon's Breath Shield", "coins": 40, "badge": "Fireproof" },
+            "11600": { "reward": "Perfect Mana Potion", "coins": 40, "badge": "Archmage" },
+            "11800": { "reward": "Phoenix Down", "coins": 40, "badge": "Rebirth" }
+          }
+        },
+        "12000": {
+          "reward": "Celestial Robes",
+          "coins": 690,
+          "badge": "Archon Badge",
+          "sublevels": {
+            "12200": { "reward": "Elixir of Life", "coins": 40, "badge": "Immortal" },
+            "12400": { "reward": "Celestial Aegis", "coins": 40, "badge": "Divine Guard" },
+            "12600": { "reward": "Elixir of Sorcery", "coins": 40, "badge": "Infinite Mana" },
+            "12800": { "reward": "Tome of Knowledge", "coins": 40, "badge": "All-Knowing" }
+          }
+        },
+        "13000": {
+          "reward": "Void-forged Katana",
+          "coins": 740,
+          "badge": "Master Badge",
+          "sublevels": {
+            "13200": { "reward": "Elixir of Life", "coins": 40, "badge": "Immortal" },
+            "13400": { "reward": "Celestial Aegis", "coins": 40, "badge": "Divine Guard" },
+            "13600": { "reward": "Elixir of Sorcery", "coins": 40, "badge": "Infinite Mana" },
+            "13800": { "reward": "Tome of Knowledge", "coins": 40, "badge": "All-Knowing" }
+          }
+        },
+        "14000": {
+          "reward": "Aetherium Crown",
+          "coins": 790,
+          "badge": "Grandmaster Badge",
+          "sublevels": {
+            "14200": { "reward": "Philosopher's Stone", "coins": 40, "badge": "Perfection" },
+            "14400": { "reward": "Aetherium Wall", "coins": 40, "badge": "Unbreakable" },
+            "14600": { "reward": "Essence of the Cosmos", "coins": 40, "badge": "Boundless" },
+            "14800": { "reward": "Rune of Ascendance", "coins": 40, "badge": "Transcendent" }
+          }
+        },
+        "15000": {
+          "reward": "Mythic Guardian Armor",
+          "coins": 840,
+          "badge": "Legendary Hero Badge",
+          "sublevels": {
+            "15200": { "reward": "Philosopher's Stone", "coins": 40, "badge": "Perfection" },
+            "15400": { "reward": "Aetherium Wall", "coins": 40, "badge": "Unbreakable" },
+            "15600": { "reward": "Essence of the Cosmos", "coins": 40, "badge": "Boundless" },
+            "15800": { "reward": "Rune of Ascendance", "coins": 40, "badge": "Transcendent" }
+          }
+        }
+      }
+    },
+    "grade11": {
+      "rewards": {
+        "0": {
+          "reward": "Bronze Sword",
+          "coins": 100,
+          "badge": "Recruit Badge",
+          "sublevels": {
+            "200": { "reward": "Small Health Potion", "coins": 45, "badge": "Potion Novice" },
+            "400": { "reward": "Wooden Shield", "coins": 45, "badge": "Block Practice" },
+            "600": { "reward": "Minor Mana Potion", "coins": 45, "badge": "Magic Dabbler" },
+            "800": { "reward": "Sharpening Stone", "coins": 45, "badge": "Keen Edge" }
+          }
+        },
+        "1000": {
+          "reward": "Iron Helm",
+          "coins": 150,
+          "badge": "Apprentice Badge",
+          "sublevels": {
+            "1200": { "reward": "Small Health Potion", "coins": 45, "badge": "Potion Novice" },
+            "1400": { "reward": "Wooden Shield", "coins": 45, "badge": "Block Practice" },
+            "1600": { "reward": "Minor Mana Potion", "coins": 45, "badge": "Magic Dabbler" },
+            "1800": { "reward": "Sharpening Stone", "coins": 45, "badge": "Keen Edge" }
+          }
+        },
+        "2000": {
+          "reward": "Steel Chestplate",
+          "coins": 200,
+          "badge": "Journeyman Badge",
+          "sublevels": {
+            "2200": { "reward": "Medium Health Potion", "coins": 45, "badge": "Potion Adept" },
+            "2400": { "reward": "Reinforced Shield", "coins": 45, "badge": "Shield Wall" },
+            "2600": { "reward": "Standard Mana Potion", "coins": 45, "badge": "Magic Adept" },
+            "2800": { "reward": "Scroll of Haste", "coins": 45, "badge": "Swift Action" }
+          }
+        },
+        "3000": {
+          "reward": "Silver Blade",
+          "coins": 250,
+          "badge": "Warrior Badge",
+          "sublevels": {
+            "3200": { "reward": "Medium Health Potion", "coins": 45, "badge": "Potion Adept" },
+            "3400": { "reward": "Reinforced Shield", "coins": 45, "badge": "Shield Wall" },
+            "3600": { "reward": "Standard Mana Potion", "coins": 45, "badge": "Magic Adept" },
+            "3800": { "reward": "Scroll of Haste", "coins": 45, "badge": "Swift Action" }
+          }
+        },
+        "4000": {
+          "reward": "Golden Gauntlets",
+          "coins": 300,
+          "badge": "Knight Badge",
+          "sublevels": {
+            "4200": { "reward": "Large Health Potion", "coins": 45, "badge": "Potion Expert" },
+            "4400": { "reward": "Tower Shield", "coins": 45, "badge": "Guardian Stance" },
+            "4600": { "reward": "Greater Mana Potion", "coins": 45, "badge": "Magic Expert" },
+            "4800": { "reward": "Elixir of Strength", "coins": 45, "badge": "Empowered" }
+          }
+        },
+        "5000": {
+          "reward": "Enchanted Bow",
+          "coins": 350,
+          "badge": "Ranger Badge",
+          "sublevels": {
+            "5200": { "reward": "Large Health Potion", "coins": 45, "badge": "Potion Expert" },
+            "5400": { "reward": "Tower Shield", "coins": 45, "badge": "Guardian Stance" },
+            "5600": { "reward": "Greater Mana Potion", "coins": 45, "badge": "Magic Expert" },
+            "5800": { "reward": "Elixir of Strength", "coins": 45, "badge": "Empowered" }
+          }
+        },
+        "6000": {
+          "reward": "Mithril Armor",
+          "coins": 400,
+          "badge": "Captain Badge",
+          "sublevels": {
+            "6200": { "reward": "Superior Health Potion", "coins": 45, "badge": "Potion Master" },
+            "6400": { "reward": "Aegis Shield", "coins": 45, "badge": "Impenetrable" },
+            "6600": { "reward": "Superior Mana Potion", "coins": 45, "badge": "Magic Master" },
+            "6800": { "reward": "Amulet of Protection", "coins": 45, "badge": "Warded" }
+          }
+        },
+        "7000": {
+          "reward": "Adamantite Greaves",
+          "coins": 450,
+          "badge": "Commander Badge",
+          "sublevels": {
+            "7200": { "reward": "Superior Health Potion", "coins": 45, "badge": "Potion Master" },
+            "7400": { "reward": "Aegis Shield", "coins": 45, "badge": "Impenetrable" },
+            "7600": { "reward": "Superior Mana Potion", "coins": 45, "badge": "Magic Master" },
+            "7800": { "reward": "Amulet of Protection", "coins": 45, "badge": "Warded" }
+          }
+        },
+        "8000": {
+          "reward": "Crystal Longsword",
+          "coins": 500,
+          "badge": "Champion Badge",
+          "sublevels": {
+            "8200": { "reward": "Grand Health Potion", "coins": 45, "badge": "Potion Grandmaster" },
+            "8400": { "reward": "Reflective Shield", "coins": 45, "badge": "Spellguard" },
+            "8600": { "reward": "Grand Mana Potion", "coins": 45, "badge": "Magic Grandmaster" },
+            "8800": { "reward": "Ring of Power", "coins": 45, "badge": "Arcane Might" }
+          }
+        },
+        "9000": {
+          "reward": "Obsidian Daggers",
+          "coins": 550,
+          "badge": "Assassin Badge",
+          "sublevels": {
+            "9200": { "reward": "Grand Health Potion", "coins": 45, "badge": "Potion Grandmaster" },
+            "9400": { "reward": "Reflective Shield", "coins": 45, "badge": "Spellguard" },
+            "9600": { "reward": "Grand Mana Potion", "coins": 45, "badge": "Magic Grandmaster" },
+            "9800": { "reward": "Ring of Power", "coins": 45, "badge": "Arcane Might" }
+          }
+        },
+        "10000": {
+          "reward": "Dragonscale Mail",
+          "coins": 600,
+          "badge": "Lord Badge",
+          "sublevels": {
+            "10200": { "reward": "Perfect Health Potion", "coins": 45, "badge": "Alchemist" },
+            "10400": { "reward": "Dragon's Breath Shield", "coins": 45, "badge": "Fireproof" },
+            "10600": { "reward": "Perfect Mana Potion", "coins": 45, "badge": "Archmage" },
+            "10800": { "reward": "Phoenix Down", "coins": 45, "badge": "Rebirth" }
+          }
+        },
+        "11000": {
+          "reward": "Sunfire Warhammer",
+          "coins": 650,
+          "badge": "Paladin Badge",
+          "sublevels": {
+            "11200": { "reward": "Perfect Health Potion", "coins": 45, "badge": "Alchemist" },
+            "11400": { "reward": "Dragon's Breath Shield", "coins": 45, "badge": "Fireproof" },
+            "11600": { "reward": "Perfect Mana Potion", "coins": 45, "badge": "Archmage" },
+            "11800": { "reward": "Phoenix Down", "coins": 45, "badge": "Rebirth" }
+          }
+        },
+        "12000": {
+          "reward": "Celestial Robes",
+          "coins": 700,
+          "badge": "Archon Badge",
+          "sublevels": {
+            "12200": { "reward": "Elixir of Life", "coins": 45, "badge": "Immortal" },
+            "12400": { "reward": "Celestial Aegis", "coins": 45, "badge": "Divine Guard" },
+            "12600": { "reward": "Elixir of Sorcery", "coins": 45, "badge": "Infinite Mana" },
+            "12800": { "reward": "Tome of Knowledge", "coins": 45, "badge": "All-Knowing" }
+          }
+        },
+        "13000": {
+          "reward": "Void-forged Katana",
+          "coins": 750,
+          "badge": "Master Badge",
+          "sublevels": {
+            "13200": { "reward": "Elixir of Life", "coins": 45, "badge": "Immortal" },
+            "13400": { "reward": "Celestial Aegis", "coins": 45, "badge": "Divine Guard" },
+            "13600": { "reward": "Elixir of Sorcery", "coins": 45, "badge": "Infinite Mana" },
+            "13800": { "reward": "Tome of Knowledge", "coins": 45, "badge": "All-Knowing" }
+          }
+        },
+        "14000": {
+          "reward": "Aetherium Crown",
+          "coins": 800,
+          "badge": "Grandmaster Badge",
+          "sublevels": {
+            "14200": { "reward": "Philosopher's Stone", "coins": 45, "badge": "Perfection" },
+            "14400": { "reward": "Aetherium Wall", "coins": 45, "badge": "Unbreakable" },
+            "14600": { "reward": "Essence of the Cosmos", "coins": 45, "badge": "Boundless" },
+            "14800": { "reward": "Rune of Ascendance", "coins": 45, "badge": "Transcendent" }
+          }
+        },
+        "15000": {
+          "reward": "Mythic Guardian Armor",
+          "coins": 850,
+          "badge": "Legendary Hero Badge",
+          "sublevels": {
+            "15200": { "reward": "Philosopher's Stone", "coins": 45, "badge": "Perfection" },
+            "15400": { "reward": "Aetherium Wall", "coins": 45, "badge": "Unbreakable" },
+            "15600": { "reward": "Essence of the Cosmos", "coins": 45, "badge": "Boundless" },
+            "15800": { "reward": "Rune of Ascendance", "coins": 45, "badge": "Transcendent" }
+          }
+        }
+      }
+    },
+    "grade12": {
+      "rewards": {
+        "0": {
+          "reward": "Bronze Sword",
+          "coins": 110,
+          "badge": "Recruit Badge",
+          "sublevels": {
+            "200": { "reward": "Small Health Potion", "coins": 50, "badge": "Potion Novice" },
+            "400": { "reward": "Wooden Shield", "coins": 50, "badge": "Block Practice" },
+            "600": { "reward": "Minor Mana Potion", "coins": 50, "badge": "Magic Dabbler" },
+            "800": { "reward": "Sharpening Stone", "coins": 50, "badge": "Keen Edge" }
+          }
+        },
+        "1000": {
+          "reward": "Iron Helm",
+          "coins": 160,
+          "badge": "Apprentice Badge",
+          "sublevels": {
+            "1200": { "reward": "Small Health Potion", "coins": 50, "badge": "Potion Novice" },
+            "1400": { "reward": "Wooden Shield", "coins": 50, "badge": "Block Practice" },
+            "1600": { "reward": "Minor Mana Potion", "coins": 50, "badge": "Magic Dabbler" },
+            "1800": { "reward": "Sharpening Stone", "coins": 50, "badge": "Keen Edge" }
+          }
+        },
+        "2000": {
+          "reward": "Steel Chestplate",
+          "coins": 210,
+          "badge": "Journeyman Badge",
+          "sublevels": {
+            "2200": { "reward": "Medium Health Potion", "coins": 50, "badge": "Potion Adept" },
+            "2400": { "reward": "Reinforced Shield", "coins": 50, "badge": "Shield Wall" },
+            "2600": { "reward": "Standard Mana Potion", "coins": 50, "badge": "Magic Adept" },
+            "2800": { "reward": "Scroll of Haste", "coins": 50, "badge": "Swift Action" }
+          }
+        },
+        "3000": {
+          "reward": "Silver Blade",
+          "coins": 260,
+          "badge": "Warrior Badge",
+          "sublevels": {
+            "3200": { "reward": "Medium Health Potion", "coins": 50, "badge": "Potion Adept" },
+            "3400": { "reward": "Reinforced Shield", "coins": 50, "badge": "Shield Wall" },
+            "3600": { "reward": "Standard Mana Potion", "coins": 50, "badge": "Magic Adept" },
+            "3800": { "reward": "Scroll of Haste", "coins": 50, "badge": "Swift Action" }
+          }
+        },
+        "4000": {
+          "reward": "Golden Gauntlets",
+          "coins": 310,
+          "badge": "Knight Badge",
+          "sublevels": {
+            "4200": { "reward": "Large Health Potion", "coins": 50, "badge": "Potion Expert" },
+            "4400": { "reward": "Tower Shield", "coins": 50, "badge": "Guardian Stance" },
+            "4600": { "reward": "Greater Mana Potion", "coins": 50, "badge": "Magic Expert" },
+            "4800": { "reward": "Elixir of Strength", "coins": 50, "badge": "Empowered" }
+          }
+        },
+        "5000": {
+          "reward": "Enchanted Bow",
+          "coins": 360,
+          "badge": "Ranger Badge",
+          "sublevels": {
+            "5200": { "reward": "Large Health Potion", "coins": 50, "badge": "Potion Expert" },
+            "5400": { "reward": "Tower Shield", "coins": 50, "badge": "Guardian Stance" },
+            "5600": { "reward": "Greater Mana Potion", "coins": 50, "badge": "Magic Expert" },
+            "5800": { "reward": "Elixir of Strength", "coins": 50, "badge": "Empowered" }
+          }
+        },
+        "6000": {
+          "reward": "Mithril Armor",
+          "coins": 410,
+          "badge": "Captain Badge",
+          "sublevels": {
+            "6200": { "reward": "Superior Health Potion", "coins": 50, "badge": "Potion Master" },
+            "6400": { "reward": "Aegis Shield", "coins": 50, "badge": "Impenetrable" },
+            "6600": { "reward": "Superior Mana Potion", "coins": 50, "badge": "Magic Master" },
+            "6800": { "reward": "Amulet of Protection", "coins": 50, "badge": "Warded" }
+          }
+        },
+        "7000": {
+          "reward": "Adamantite Greaves",
+          "coins": 460,
+          "badge": "Commander Badge",
+          "sublevels": {
+            "7200": { "reward": "Superior Health Potion", "coins": 50, "badge": "Potion Master" },
+            "7400": { "reward": "Aegis Shield", "coins": 50, "badge": "Impenetrable" },
+            "7600": { "reward": "Superior Mana Potion", "coins": 50, "badge": "Magic Master" },
+            "7800": { "reward": "Amulet of Protection", "coins": 50, "badge": "Warded" }
+          }
+        },
+        "8000": {
+          "reward": "Crystal Longsword",
+          "coins": 510,
+          "badge": "Champion Badge",
+          "sublevels": {
+            "8200": { "reward": "Grand Health Potion", "coins": 50, "badge": "Potion Grandmaster" },
+            "8400": { "reward": "Reflective Shield", "coins": 50, "badge": "Spellguard" },
+            "8600": { "reward": "Grand Mana Potion", "coins": 50, "badge": "Magic Grandmaster" },
+            "8800": { "reward": "Ring of Power", "coins": 50, "badge": "Arcane Might" }
+          }
+        },
+        "9000": {
+          "reward": "Obsidian Daggers",
+          "coins": 560,
+          "badge": "Assassin Badge",
+          "sublevels": {
+            "9200": { "reward": "Grand Health Potion", "coins": 50, "badge": "Potion Grandmaster" },
+            "9400": { "reward": "Reflective Shield", "coins": 50, "badge": "Spellguard" },
+            "9600": { "reward": "Grand Mana Potion", "coins": 50, "badge": "Magic Grandmaster" },
+            "9800": { "reward": "Ring of Power", "coins": 50, "badge": "Arcane Might" }
+          }
+        },
+        "10000": {
+          "reward": "Dragonscale Mail",
+          "coins": 610,
+          "badge": "Lord Badge",
+          "sublevels": {
+            "10200": { "reward": "Perfect Health Potion", "coins": 50, "badge": "Alchemist" },
+            "10400": { "reward": "Dragon's Breath Shield", "coins": 50, "badge": "Fireproof" },
+            "10600": { "reward": "Perfect Mana Potion", "coins": 50, "badge": "Archmage" },
+            "10800": { "reward": "Phoenix Down", "coins": 50, "badge": "Rebirth" }
+          }
+        },
+        "11000": {
+          "reward": "Sunfire Warhammer",
+          "coins": 660,
+          "badge": "Paladin Badge",
+          "sublevels": {
+            "11200": { "reward": "Perfect Health Potion", "coins": 50, "badge": "Alchemist" },
+            "11400": { "reward": "Dragon's Breath Shield", "coins": 50, "badge": "Fireproof" },
+            "11600": { "reward": "Perfect Mana Potion", "coins": 50, "badge": "Archmage" },
+            "11800": { "reward": "Phoenix Down", "coins": 50, "badge": "Rebirth" }
+          }
+        },
+        "12000": {
+          "reward": "Celestial Robes",
+          "coins": 710,
+          "badge": "Archon Badge",
+          "sublevels": {
+            "12200": { "reward": "Elixir of Life", "coins": 50, "badge": "Immortal" },
+            "12400": { "reward": "Celestial Aegis", "coins": 50, "badge": "Divine Guard" },
+            "12600": { "reward": "Elixir of Sorcery", "coins": 50, "badge": "Infinite Mana" },
+            "12800": { "reward": "Tome of Knowledge", "coins": 50, "badge": "All-Knowing" }
+          }
+        },
+        "13000": {
+          "reward": "Void-forged Katana",
+          "coins": 760,
+          "badge": "Master Badge",
+          "sublevels": {
+            "13200": { "reward": "Elixir of Life", "coins": 50, "badge": "Immortal" },
+            "13400": { "reward": "Celestial Aegis", "coins": 50, "badge": "Divine Guard" },
+            "13600": { "reward": "Elixir of Sorcery", "coins": 50, "badge": "Infinite Mana" },
+            "13800": { "reward": "Tome of Knowledge", "coins": 50, "badge": "All-Knowing" }
+          }
+        },
+        "14000": {
+          "reward": "Aetherium Crown",
+          "coins": 810,
+          "badge": "Grandmaster Badge",
+          "sublevels": {
+            "14200": { "reward": "Philosopher's Stone", "coins": 50, "badge": "Perfection" },
+            "14400": { "reward": "Aetherium Wall", "coins": 50, "badge": "Unbreakable" },
+            "14600": { "reward": "Essence of the Cosmos", "coins": 50, "badge": "Boundless" },
+            "14800": { "reward": "Rune of Ascendance", "coins": 50, "badge": "Transcendent" }
+          }
+        },
+        "15000": {
+          "reward": "Mythic Guardian Armor",
+          "coins": 860,
+          "badge": "Legendary Hero Badge",
+          "sublevels": {
+            "15200": { "reward": "Philosopher's Stone", "coins": 50, "badge": "Perfection" },
+            "15400": { "reward": "Aetherium Wall", "coins": 50, "badge": "Unbreakable" },
+            "15600": { "reward": "Essence of the Cosmos", "coins": 50, "badge": "Boundless" },
+            "15800": { "reward": "Rune of Ascendance", "coins": 50, "badge": "Transcendent" }
+          }
+        }
+      }
+    }
+  }
+}

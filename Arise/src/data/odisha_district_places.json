@@ -1,0 +1,122 @@
+[
+  {
+    "district": "Angul",
+    "places": ["Angul", "Talcher", "Pallahara", "Athmallik", "Khamar", "Chhendipada", "Jarapada", "Kaniha", "Bantala", "Purunagarh"]
+  },
+  {
+    "district": "Balangir",
+    "places": ["Balangir", "Titlagarh", "Patnagarh", "Kantabanji", "Tusura", "Saintala", "Loisingha", "Agalpur", "Deogaon", "Bangomunda", "Turekela"]
+  },
+  {
+    "district": "Balasore",
+    "places": ["Balasore", "Jaleswar", "Soro", "Nilagiri", "Remuna", "Bahanaga", "Khantapada", "Basta", "Baliapal", "Bhograi", "Oupada"]
+  },
+  {
+    "district": "Bargarh",
+    "places": ["Bargarh", "Barpali", "Padampur", "Attabira", "Bijepur", "Bhatli", "Sohela", "Gaisilet", "Jharbandh", "Paikmal", "Ambabhona"]
+  },
+  {
+    "district": "Bhadrak",
+    "places": ["Bhadrak", "Basudevpur", "Dhamnagar", "Chandbali", "Tihidi", "Bant", "Agarpada", "Dhusuri", "Bonth", "Naikanidihi"]
+  },
+  {
+    "district": "Boudh",
+    "places": ["Boudh", "Kantamal", "Harbhanga", "Manamunda", "Purunakatak", "Baunsuni", "Ghantapada"]
+  },
+  {
+    "district": "Cuttack",
+    "places": ["Cuttack", "Choudwar", "Athagarh", "Banki", "Niali", "Salepur", "Narsinghpur", "Baramba", "Tigiria", "Mahanga", "Kishannagar", "Tangi"]
+  },
+  {
+    "district": "Deogarh",
+    "places": ["Deogarh", "Barkote", "Tileibani", "Reamal", "Kansar", "Budhapal"]
+  },
+  {
+    "district": "Dhenkanal",
+    "places": ["Dhenkanal", "Kamakhyanagar", "Hindol", "Parjang", "Gondia", "Sadar", "Odapada", "Kankadahad", "Bhuban"]
+  },
+  {
+    "district": "Gajapati",
+    "places": ["Paralakhemundi", "Kashinagar", "Mohana", "R.Udayagiri", "Gumma", "Rayagada", "Nuagada"]
+  },
+  {
+    "district": "Ganjam",
+    "places": ["Brahmapur", "Hinjilicut", "Chhatrapur", "Aska", "Bhanjanagar", "Kukudakhandi", "Gopalpur", "Digapahandi", "Surada", "Polasara", "Kabisuryanagar", "Khallikote", "Rangeilunda"]
+  },
+  {
+    "district": "Jagatsinghpur",
+    "places": ["Jagatsinghpur", "Paradeep", "Raghunathpur", "Kujang", "Tirtol", "Ersama", "Biridi", "Naugaon", "Balikuda"]
+  },
+  {
+    "district": "Jajpur",
+    "places": ["Jajpur", "Byasanagar", "Panikoili", "Dharmasala", "Binjharpur", "Bari", "Dasarathpur", "Sukinda", "Korai"]
+  },
+  {
+    "district": "Jharsuguda",
+    "places": ["Jharsuguda", "Brajarajnagar", "Belpahar", "Lakhanpur", "Laikera", "Kirmira", "Kolabira", "Banharpali"]
+  },
+  {
+    "district": "Kalahandi",
+    "places": ["Bhawanipatna", "Kesinga", "Junagarh", "Dharmagarh", "Narla", "Madanpur Rampur", "Lanjigarh", "Golamunda", "Koksara"]
+  },
+  {
+    "district": "Kandhamal",
+    "places": ["Phulbani", "Baliguda", "G. Udayagiri", "Daringbadi", "Tumudibandha", "Raikia", "K. Nuagaon", "Tikabali"]
+  },
+  {
+    "district": "Kendrapara",
+    "places": ["Kendrapara", "Pattamundai", "Aul", "Rajanagar", "Mahakalapada", "Marsaghai", "Garadpur", "Derabish"]
+  },
+  {
+    "district": "Kendujhar (Keonjhar)",
+    "places": ["Kendujhar", "Barbil", "Joda", "Anandapur", "Champua", "Ghasipura", "Patna", "Jhumpura", "Harichandanpur", "Telkoi", "Bansapal"]
+  },
+  {
+    "district": "Khordha",
+    "places": ["Bhubaneswar", "Khordha", "Jatani", "Banapur", "Balugaon", "Tangi", "Begunia", "Bolagarh", "Chilika", "Balianta"]
+  },
+  {
+    "district": "Koraput",
+    "places": ["Koraput", "Jeypore", "Sunabeda", "Damanjodi", "Kotpad", "Lamtaput", "Borigumma", "Semiliguda", "Pottangi", "Nandapur"]
+  },
+  {
+    "district": "Malkangiri",
+    "places": ["Malkangiri", "Balimela", "Mathili", "Kalimela", "Podia", "Kudumulugumma", "Khairput"]
+  },
+  {
+    "district": "Mayurbhanj",
+    "places": ["Baripada", "Rairangpur", "Karanjia", "Udala", "Betanati", "Badasahi", "Jashipur", "Thakurmunda", "Kaptipada"]
+  },
+  {
+    "district": "Nabarangpur",
+    "places": ["Nabarangpur", "Umerkote", "Raighar", "Jharigam", "Dabugam", "Papadahandi", "Kosagumuda"]
+  },
+  {
+    "district": "Nayagarh",
+    "places": ["Nayagarh", "Odagaon", "Ranpur", "Khandapada", "Daspalla", "Nuagaon", "Gania", "Bhapur", "Fategarh"]
+  },
+  {
+    "district": "Nuapada",
+    "places": ["Nuapada", "Khariar", "Komna", "Boden", "Sinapali", "Jonk", "Duajhar"]
+  },
+  {
+    "district": "Puri",
+    "places": ["Puri", "Konark", "Pipili", "Nimapada", "Brahmagiri", "Satyabadi", "Gop", "Kakatpur", "Delanga", "Astaranga"]
+  },
+  {
+    "district": "Rayagada",
+    "places": ["Rayagada", "Gunupur", "Bissam Cuttack", "Gudari", "Muniguda", "Kalyansinghpur", "Kolnara", "Padmapur", "Kashipur"]
+  },
+  {
+    "district": "Sambalpur",
+    "places": ["Sambalpur", "Burla", "Hirakud", "Rengali", "Kuchinda", "Jamankira", "Maneswar", "Dhankauda", "Jujumura", "Bamra"]
+  },
+  {
+    "district": "Subarnapur (Sonepur)",
+    "places": ["Sonepur", "Birmaharajpur", "Tarbha", "Ullunda", "Binika", "Dunguripali", "Rampur"]
+  },
+  {
+    "district": "Sundargarh",
+    "places": ["Rourkela", "Sundargarh", "Rajgangpur", "Biramitrapur", "Bonai", "Hemgir", "Lephripara", "Kutra", "Lathikata", "Balishankara"]
+  }
+]

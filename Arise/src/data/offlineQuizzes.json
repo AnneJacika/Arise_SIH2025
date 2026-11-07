@@ -1,0 +1,1738 @@
+{
+    "grade6": [
+        {
+            "subject": "Mathematics",
+            "chapter": "Number System",
+            "topic": "Whole Numbers",
+            "title": "Properties of Whole Numbers",
+            "difficulty": "easy",
+            "questions": [
+                {
+                    "question": "What is the smallest whole number?",
+                    "options": ["0", "1", "-1", "2"],
+                    "answer": "0"
+                },
+                {
+                    "question": "Which property is shown: 5 + 7 = 7 + 5?",
+                    "options": ["Associative", "Commutative", "Distributive", "Identity"],
+                    "answer": "Commutative"
+                },
+                {
+                    "question": "What is 25 × 4?",
+                    "options": ["100", "90", "110", "80"],
+                    "answer": "100"
+                },
+                {
+                    "question": "Round 2,367 to the nearest hundred.",
+                    "options": ["2,300", "2,400", "2,000", "2,500"],
+                    "answer": "2,400"
+                },
+                {
+                    "question": "What is the place value of 7 in 47,238?",
+                    "options": ["Thousands", "Hundreds", "Tens", "Units"],
+                    "answer": "Thousands"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter": "Number System",
+            "topic": "Integers",
+            "title": "Operations on Integers",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "What is (-5) + (+3)?",
+                    "options": ["-2", "2", "-8", "8"],
+                    "answer": "-2"
+                },
+                {
+                    "question": "What is (-4) × (-6)?",
+                    "options": ["-24", "24", "-10", "10"],
+                    "answer": "24"
+                },
+                {
+                    "question": "Which is greater: -7 or -10?",
+                    "options": ["-7", "-10", "Both are equal", "Cannot determine"],
+                    "answer": "-7"
+                },
+                {
+                    "question": "What is |−8|?",
+                    "options": ["8", "-8", "0", "16"],
+                    "answer": "8"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter": "Algebra",
+            "topic": "Basic Algebraic Expressions",
+            "title": "Introduction to Algebra",
+            "difficulty": "easy",
+            "questions": [
+                {
+                    "question": "If x = 5, what is 3x + 2?",
+                    "options": ["17", "15", "13", "10"],
+                    "answer": "17"
+                },
+                {
+                    "question": "Simplify: 5a + 3a",
+                    "options": ["8a", "15a", "8", "2a"],
+                    "answer": "8a"
+                },
+                {
+                    "question": "What is the coefficient of x in 7x + 3?",
+                    "options": ["7", "3", "x", "10"],
+                    "answer": "7"
+                },
+                {
+                    "question": "If y = 4, what is y² - 2y?",
+                    "options": ["8", "12", "16", "6"],
+                    "answer": "8"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter": "Geometry",
+            "topic": "Basic Geometrical Ideas",
+            "title": "Lines and Angles",
+            "difficulty": "easy",
+            "questions": [
+                {
+                    "question": "How many endpoints does a line segment have?",
+                    "options": ["0", "1", "2", "3"],
+                    "answer": "2"
+                },
+                {
+                    "question": "What is the measure of a right angle?",
+                    "options": ["45°", "90°", "180°", "360°"],
+                    "answer": "90°"
+                },
+                {
+                    "question": "Two lines that never meet are called:",
+                    "options": ["Parallel", "Perpendicular", "Intersecting", "Concurrent"],
+                    "answer": "Parallel"
+                },
+                {
+                    "question": "What is the sum of angles around a point?",
+                    "options": ["90°", "180°", "270°", "360°"],
+                    "answer": "360°"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter": "Mensuration",
+            "topic": "Perimeter and Area",
+            "title": "Area and Perimeter of Rectangles",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "What is the perimeter of a rectangle with length 8 cm and width 5 cm?",
+                    "options": ["26 cm", "13 cm", "40 cm", "20 cm"],
+                    "answer": "26 cm"
+                },
+                {
+                    "question": "What is the area of a square with side 6 cm?",
+                    "options": ["24 cm²", "36 cm²", "12 cm²", "30 cm²"],
+                    "answer": "36 cm²"
+                },
+                {
+                    "question": "If the area of a rectangle is 48 cm² and length is 8 cm, what is the width?",
+                    "options": ["6 cm", "5 cm", "7 cm", "4 cm"],
+                    "answer": "6 cm"
+                }
+            ]
+        },
+
+        {
+            "subject": "Science",
+            "chapter": "Food and Its Components",
+            "topic": "Nutrients",
+            "title": "Components of Food",
+            "difficulty": "easy",
+            "questions": [
+                {
+                    "question": "Which nutrient provides energy to our body?",
+                    "options": ["Proteins", "Carbohydrates", "Vitamins", "Minerals"],
+                    "answer": "Carbohydrates"
+                },
+                {
+                    "question": "Deficiency of which vitamin causes scurvy?",
+                    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+                    "answer": "Vitamin C"
+                },
+                {
+                    "question": "Which food item is rich in protein?",
+                    "options": ["Rice", "Egg", "Sugar", "Oil"],
+                    "answer": "Egg"
+                },
+                {
+                    "question": "What is the main function of proteins?",
+                    "options": ["Provide energy", "Body building", "Protection", "Regulation"],
+                    "answer": "Body building"
+                },
+                {
+                    "question": "Which nutrient helps in the absorption of vitamins?",
+                    "options": ["Carbohydrates", "Proteins", "Fats", "Minerals"],
+                    "answer": "Fats"
+                }
+            ]
+        },
+        {
+            "subject": "Science",
+            "chapter": "Body Movements",
+            "topic": "Human Body Systems",
+            "title": "Bones and Muscles",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "How many bones are there in an adult human body?",
+                    "options": ["206", "208", "210", "204"],
+                    "answer": "206"
+                },
+                {
+                    "question": "Which type of joint is present in the shoulder?",
+                    "options": ["Hinge joint", "Ball and socket joint", "Pivot joint", "Fixed joint"],
+                    "answer": "Ball and socket joint"
+                },
+                {
+                    "question": "What connects bones to muscles?",
+                    "options": ["Ligaments", "Tendons", "Cartilage", "Joints"],
+                    "answer": "Tendons"
+                },
+                {
+                    "question": "Which is the longest bone in human body?",
+                    "options": ["Tibia", "Femur", "Humerus", "Radius"],
+                    "answer": "Femur"
+                }
+            ]
+        },
+        {
+            "subject": "Science",
+            "chapter": "Light, Shadows and Reflections",
+            "topic": "Properties of Light",
+            "title": "Light and Its Behavior",
+            "difficulty": "easy",
+            "questions": [
+                {
+                    "question": "Light travels in:",
+                    "options": ["Curved lines", "Straight lines", "Zigzag lines", "Circles"],
+                    "answer": "Straight lines"
+                },
+                {
+                    "question": "Objects that give out light are called:",
+                    "options": ["Transparent", "Opaque", "Luminous", "Non-luminous"],
+                    "answer": "Luminous"
+                },
+                {
+                    "question": "When light falls on a mirror, what happens?",
+                    "options": ["Absorption", "Reflection", "Refraction", "Dispersion"],
+                    "answer": "Reflection"
+                },
+                {
+                    "question": "Which of these is a natural source of light?",
+                    "options": ["Bulb", "Candle", "Sun", "Torch"],
+                    "answer": "Sun"
+                }
+            ]
+        },
+
+        {
+            "subject": "Social Studies",
+            "chapter": "Geography",
+            "topic": "Earth and Its Features",
+            "title": "Our Earth",
+            "difficulty": "easy",
+            "questions": [
+                {
+                    "question": "What percentage of Earth's surface is covered by water?",
+                    "options": ["50%", "60%", "71%", "80%"],
+                    "answer": "71%"
+                },
+                {
+                    "question": "Which is the largest continent?",
+                    "options": ["Africa", "Asia", "North America", "Europe"],
+                    "answer": "Asia"
+                },
+                {
+                    "question": "What is the imaginary line that divides Earth into Northern and Southern hemispheres?",
+                    "options": ["Prime Meridian", "Tropic of Cancer", "Equator", "International Date Line"],
+                    "answer": "Equator"
+                },
+                {
+                    "question": "How many continents are there?",
+                    "options": ["5", "6", "7", "8"],
+                    "answer": "7"
+                }
+            ]
+        },
+        {
+            "subject": "Social Studies",
+            "chapter": "History",
+            "topic": "Ancient India",
+            "title": "The Indus Valley Civilization",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "Which two cities were the major centers of Indus Valley Civilization?",
+                    "options": ["Delhi and Mumbai", "Harappa and Mohenjo-daro", "Patna and Kolkata", "Varanasi and Allahabad"],
+                    "answer": "Harappa and Mohenjo-daro"
+                },
+                {
+                    "question": "The Indus Valley Civilization flourished around:",
+                    "options": ["3000 BCE", "2500 BCE", "2000 BCE", "1500 BCE"],
+                    "answer": "2500 BCE"
+                },
+                {
+                    "question": "What was the main occupation of Indus Valley people?",
+                    "options": ["Hunting", "Agriculture and Trade", "Fishing", "Mining"],
+                    "answer": "Agriculture and Trade"
+                }
+            ]
+        },
+
+        {
+            "subject": "Environmental Studies",
+            "chapter": "Water",
+            "topic": "Water Conservation",
+            "title": "Importance of Water",
+            "difficulty": "easy",
+            "questions": [
+                {
+                    "question": "What percentage of Earth's water is fresh water?",
+                    "options": ["1%", "3%", "5%", "10%"],
+                    "answer": "3%"
+                },
+                {
+                    "question": "Which method can help conserve water at home?",
+                    "options": ["Taking long showers", "Leaving taps open", "Rainwater harvesting", "Washing cars daily"],
+                    "answer": "Rainwater harvesting"
+                },
+                {
+                    "question": "Water pollution is mainly caused by:",
+                    "options": ["Industrial waste", "Domestic sewage", "Agricultural runoff", "All of the above"],
+                    "answer": "All of the above"
+                },
+                {
+                    "question": "What is the water cycle?",
+                    "options": ["Movement of water in ocean", "Continuous movement of water on Earth", "Rotation of Earth", "Movement of clouds"],
+                    "answer": "Continuous movement of water on Earth"
+                }
+            ]
+        },
+
+        {
+            "subject": "Odia",
+            "chapter": "ବର୍ଣ୍ଣମାଳା (Alphabet)",
+            "topic": "ସ୍ୱର ଓ ବ୍ୟଞ୍ଜନ (Vowels and Consonants)",
+            "title": "ଓଡ଼ିଆ ବର୍ଣ୍ଣମାଳା",
+            "difficulty": "easy",
+            "questions": [
+                {
+                    "question": "ଓଡ଼ିଆ ଭାଷାରେ କେତୋଟି ସ୍ୱର ଅଛି? (How many vowels are there in Odia?)",
+                    "options": ["୧୧", "୧୨", "୧୩", "୧୦"],
+                    "answer": "୧୨"
+                },
+                {
+                    "question": "ଓଡ଼ିଆ ଭାଷାରେ କେତୋଟି ବ୍ୟଞ୍ଜନ ଅଛି? (How many consonants are there in Odia?)",
+                    "options": ["୩୩", "୩୪", "୩୫", "୩୬"],
+                    "answer": "୩୬"
+                },
+                {
+                    "question": "'କ' ବର୍ଣ୍ଣଟି କଣ? ('କ' is what type of letter?)",
+                    "options": ["ସ୍ୱର", "ବ୍ୟଞ୍ଜନ", "ଯୁକ୍ତାକ୍ଷର", "ଚିହ୍ନ"],
+                    "answer": "ବ୍ୟଞ୍ଜନ"
+                }
+            ]
+        },
+
+        {
+            "subject": "English",
+            "chapter": "Grammar",
+            "topic": "Parts of Speech",
+            "title": "Nouns and Pronouns",
+            "difficulty": "easy",
+            "questions": [
+                {
+                    "question": "Which of these is a proper noun?",
+                    "options": ["book", "Delhi", "dog", "tree"],
+                    "answer": "Delhi"
+                },
+                {
+                    "question": "What type of word is 'beautiful'?",
+                    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+                    "answer": "Adjective"
+                },
+                {
+                    "question": "Choose the correct pronoun: ___ is my friend.",
+                    "options": ["Him", "Her", "She", "Them"],
+                    "answer": "She"
+                },
+                {
+                    "question": "What is the plural of 'child'?",
+                    "options": ["childs", "children", "childes", "child"],
+                    "answer": "children"
+                }
+            ]
+        }
+    ],
+
+    "grade7": [
+        {
+            "subject": "Mathematics",
+            "chapter": "Integers",
+            "topic": "Operations on Integers",
+            "title": "Addition and Subtraction of Integers",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "What is (-15) + (-8)?",
+                    "options": ["-23", "23", "-7", "7"],
+                    "answer": "-23"
+                },
+                {
+                    "question": "What is 12 - (-5)?",
+                    "options": ["7", "17", "-7", "-17"],
+                    "answer": "17"
+                },
+                {
+                    "question": "Which property is used: (-3) + 5 = 5 + (-3)?",
+                    "options": ["Associative", "Commutative", "Distributive", "Closure"],
+                    "answer": "Commutative"
+                },
+                {
+                    "question": "What is the additive inverse of -7?",
+                    "options": ["7", "-7", "0", "1"],
+                    "answer": "7"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter": "Fractions and Decimals",
+            "topic": "Operations on Fractions",
+            "title": "Addition and Subtraction of Fractions",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "What is 3/4 + 1/6?",
+                    "options": ["4/10", "11/12", "9/24", "5/8"],
+                    "answer": "11/12"
+                },
+                {
+                    "question": "Convert 0.75 to fraction in lowest terms:",
+                    "options": ["75/100", "15/20", "3/4", "6/8"],
+                    "answer": "3/4"
+                },
+                {
+                    "question": "What is 2/3 × 3/5?",
+                    "options": ["6/15", "2/5", "5/8", "1/2"],
+                    "answer": "2/5"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter": "Algebra",
+            "topic": "Simple Equations",
+            "title": "Solving Linear Equations",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "Solve: 3x - 7 = 14",
+                    "options": ["x = 7", "x = 5", "x = 21", "x = 3"],
+                    "answer": "x = 7"
+                },
+                {
+                    "question": "If 2x + 5 = 15, then x = ?",
+                    "options": ["5", "10", "7.5", "20"],
+                    "answer": "5"
+                },
+                {
+                    "question": "Solve: x/4 = 12",
+                    "options": ["x = 3", "x = 48", "x = 16", "x = 8"],
+                    "answer": "x = 48"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter": "Geometry",
+            "topic": "Lines and Angles",
+            "title": "Types of Angles",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "If two angles are supplementary and one angle is 65°, what is the other angle?",
+                    "options": ["115°", "25°", "35°", "125°"],
+                    "answer": "115°"
+                },
+                {
+                    "question": "What is the sum of all angles of a triangle?",
+                    "options": ["90°", "180°", "270°", "360°"],
+                    "answer": "180°"
+                },
+                {
+                    "question": "If two parallel lines are cut by a transversal, alternate interior angles are:",
+                    "options": ["Equal", "Supplementary", "Complementary", "Different"],
+                    "answer": "Equal"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter": "Perimeter and Area",
+            "topic": "Area of Triangles",
+            "title": "Calculating Areas",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "What is the area of a triangle with base 10 cm and height 6 cm?",
+                    "options": ["60 cm²", "30 cm²", "16 cm²", "20 cm²"],
+                    "answer": "30 cm²"
+                },
+                {
+                    "question": "The area of a circle with radius 7 cm is: (use π = 22/7)",
+                    "options": ["154 cm²", "44 cm²", "22 cm²", "308 cm²"],
+                    "answer": "154 cm²"
+                },
+                {
+                    "question": "What is the perimeter of a triangle with sides 5 cm, 12 cm, and 13 cm?",
+                    "options": ["30 cm", "25 cm", "20 cm", "35 cm"],
+                    "answer": "30 cm"
+                }
+            ]
+        },
+
+        {
+            "subject": "Science",
+            "chapter": "Nutrition in Plants",
+            "topic": "Photosynthesis",
+            "title": "Process of Photosynthesis",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "Which gas is released during photosynthesis?",
+                    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+                    "answer": "Oxygen"
+                },
+                {
+                    "question": "Photosynthesis occurs in which part of the plant cell?",
+                    "options": ["Nucleus", "Mitochondria", "Chloroplast", "Vacuole"],
+                    "answer": "Chloroplast"
+                },
+                {
+                    "question": "What is the main product of photosynthesis?",
+                    "options": ["Oxygen", "Carbon dioxide", "Glucose", "Water"],
+                    "answer": "Glucose"
+                },
+                {
+                    "question": "Which of these is required for photosynthesis?",
+                    "options": ["Sunlight", "Carbon dioxide", "Water", "All of the above"],
+                    "answer": "All of the above"
+                }
+            ]
+        },
+        {
+            "subject": "Science",
+            "chapter": "Heat and Temperature",
+            "topic": "Measurement of Temperature",
+            "title": "Thermometer and Temperature Scales",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "What is the normal temperature of human body in Celsius?",
+                    "options": ["35°C", "37°C", "39°C", "40°C"],
+                    "answer": "37°C"
+                },
+                {
+                    "question": "At what temperature does water boil?",
+                    "options": ["90°C", "95°C", "100°C", "105°C"],
+                    "answer": "100°C"
+                },
+                {
+                    "question": "Which instrument is used to measure temperature?",
+                    "options": ["Barometer", "Thermometer", "Hygrometer", "Anemometer"],
+                    "answer": "Thermometer"
+                },
+                {
+                    "question": "Heat flows from:",
+                    "options": ["Cold to hot", "Hot to cold", "Both directions", "Doesn't flow"],
+                    "answer": "Hot to cold"
+                }
+            ]
+        },
+        {
+            "subject": "Science",
+            "chapter": "Acids, Bases and Salts",
+            "topic": "Properties of Acids and Bases",
+            "title": "Identification of Acids and Bases",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "What color does litmus paper turn in acidic solution?",
+                    "options": ["Blue", "Red", "Green", "Yellow"],
+                    "answer": "Red"
+                },
+                {
+                    "question": "Which of these is a natural indicator?",
+                    "options": ["Litmus", "Turmeric", "China rose", "All of the above"],
+                    "answer": "All of the above"
+                },
+                {
+                    "question": "What is the pH value of pure water?",
+                    "options": ["0", "7", "14", "1"],
+                    "answer": "7"
+                },
+                {
+                    "question": "Lemon juice is:",
+                    "options": ["Acidic", "Basic", "Neutral", "Salt"],
+                    "answer": "Acidic"
+                }
+            ]
+        },
+
+        {
+            "subject": "Social Studies",
+            "chapter": "Medieval India",
+            "topic": "Delhi Sultanate",
+            "title": "Rulers of Delhi Sultanate",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "Who founded the Delhi Sultanate?",
+                    "options": ["Alauddin Khilji", "Qutub-ud-din Aibak", "Iltutmish", "Balban"],
+                    "answer": "Qutub-ud-din Aibak"
+                },
+                {
+                    "question": "Which monument was built by Qutub-ud-din Aibak?",
+                    "options": ["Red Fort", "Qutub Minar", "Taj Mahal", "Humayun's Tomb"],
+                    "answer": "Qutub Minar"
+                },
+                {
+                    "question": "The Delhi Sultanate was established in which century?",
+                    "options": ["11th century", "12th century", "13th century", "14th century"],
+                    "answer": "13th century"
+                }
+            ]
+        },
+
+        {
+            "subject": "Environmental Studies",
+            "chapter": "Natural Resources",
+            "topic": "Forest Resources",
+            "title": "Importance of Forests",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "What percentage of India's land area should be under forest cover?",
+                    "options": ["25%", "33%", "40%", "50%"],
+                    "answer": "33%"
+                },
+                {
+                    "question": "Deforestation leads to:",
+                    "options": ["Soil erosion", "Loss of biodiversity", "Climate change", "All of the above"],
+                    "answer": "All of the above"
+                },
+                {
+                    "question": "Which gas do forests help to reduce from atmosphere?",
+                    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+                    "answer": "Carbon dioxide"
+                }
+            ]
+        }
+    ],
+
+    "grade8": [
+        {
+            "subject": "Mathematics",
+            "chapter": "Rational Numbers",
+            "topic": "Operations on Rational Numbers",
+            "title": "Properties of Rational Numbers",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "What is (-3/4) + (2/3)?",
+                    "options": ["-1/12", "1/12", "-5/12", "5/12"],
+                    "answer": "-1/12"
+                },
+                {
+                    "question": "Which of these is a rational number?",
+                    "options": ["π", "√2", "3/7", "√3"],
+                    "answer": "3/7"
+                },
+                {
+                    "question": "What is the multiplicative inverse of -5/8?",
+                    "options": ["8/5", "-8/5", "5/8", "-5/8"],
+                    "answer": "-8/5"
+                },
+                {
+                    "question": "Between any two rational numbers, there are:",
+                    "options": ["No rational numbers", "Only one rational number", "Infinitely many rational numbers", "Two rational numbers"],
+                    "answer": "Infinitely many rational numbers"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter": "Algebra",
+            "topic": "Factorisation",
+            "title": "Factoring Algebraic Expressions",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "Factorize: x² - 9",
+                    "options": ["(x-3)(x-3)", "(x+3)(x+3)", "(x+3)(x-3)", "x(x-9)"],
+                    "answer": "(x+3)(x-3)"
+                },
+                {
+                    "question": "What is the common factor in 6x²y and 9xy²?",
+                    "options": ["3xy", "6xy", "9xy", "xy"],
+                    "answer": "3xy"
+                },
+                {
+                    "question": "Factorize: 2x + 4",
+                    "options": ["2(x + 2)", "x(2 + 4)", "(2x)(4)", "2x + 4"],
+                    "answer": "2(x + 2)"
+                }
+            ]
+        },
+
+        {
+            "subject": "Science",
+            "chapter": "Chemical Effects of Electric Current",
+            "topic": "Electroplating",
+            "title": "Applications of Electroplating",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "Which metal is commonly used for electroplating to prevent rusting?",
+                    "options": ["Gold", "Silver", "Chromium", "Copper"],
+                    "answer": "Chromium"
+                },
+                {
+                    "question": "In electroplating, the object to be plated acts as:",
+                    "options": ["Anode", "Cathode", "Electrolyte", "Battery"],
+                    "answer": "Cathode"
+                },
+                {
+                    "question": "What type of current is used in electroplating?",
+                    "options": ["AC current", "DC current", "Both", "Neither"],
+                    "answer": "DC current"
+                }
+            ]
+        }
+    ],
+
+    "grade9": [
+        {
+            "subject": "Mathematics",
+            "chapter": "Number Systems",
+            "topic": "Real Numbers",
+            "title": "Rational and Irrational Numbers",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "Which of these is an irrational number?",
+                    "options": ["√4", "√9", "√2", "√16"],
+                    "answer": "√2"
+                },
+                {
+                    "question": "The decimal expansion of a rational number is:",
+                    "options": ["Always terminating", "Always non-terminating", "Either terminating or non-terminating repeating", "Always non-terminating non-repeating"],
+                    "answer": "Either terminating or non-terminating repeating"
+                },
+                {
+                    "question": "Simplify: √18",
+                    "options": ["3√2", "2√3", "9√2", "6√3"],
+                    "answer": "3√2"
+                },
+                {
+                    "question": "Which number line represents real numbers?",
+                    "options": ["Only positive numbers", "Only integers", "All numbers including irrational", "Only fractions"],
+                    "answer": "All numbers including irrational"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter": "Polynomials",
+            "topic": "Factorization of Polynomials",
+            "title": "Polynomial Operations",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "What is the degree of polynomial 3x⁴ + 2x² - 5?",
+                    "options": ["2", "3", "4", "5"],
+                    "answer": "4"
+                },
+                {
+                    "question": "Factorize: x² + 5x + 6",
+                    "options": ["(x+2)(x+3)", "(x+1)(x+6)", "(x-2)(x-3)", "(x+5)(x+1)"],
+                    "answer": "(x+2)(x+3)"
+                },
+                {
+                    "question": "If p(x) = x² - 3x + 2, what is p(1)?",
+                    "options": ["0", "1", "2", "-2"],
+                    "answer": "0"
+                },
+                {
+                    "question": "The remainder when x³ - 2x² + x + 1 is divided by (x-1) is:",
+                    "options": ["0", "1", "2", "-1"],
+                    "answer": "1"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter": "Coordinate Geometry",
+            "topic": "Linear Equations in Two Variables",
+            "title": "Graphing Linear Equations",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "What is the y-intercept of the line 2x + 3y = 6?",
+                    "options": ["2", "3", "6", "0"],
+                    "answer": "2"
+                },
+                {
+                    "question": "The equation of x-axis is:",
+                    "options": ["x = 0", "y = 0", "x = y", "x + y = 0"],
+                    "answer": "y = 0"
+                },
+                {
+                    "question": "Point (-2, 3) lies in which quadrant?",
+                    "options": ["I", "II", "III", "IV"],
+                    "answer": "II"
+                }
+            ]
+        },
+
+        {
+            "subject": "Science",
+            "chapter": "Matter in Our Surroundings",
+            "topic": "States of Matter",
+            "title": "Properties of States of Matter",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "At what temperature does water freeze?",
+                    "options": ["-1°C", "0°C", "1°C", "4°C"],
+                    "answer": "0°C"
+                },
+                {
+                    "question": "Which state of matter has definite shape and volume?",
+                    "options": ["Solid", "Liquid", "Gas", "Plasma"],
+                    "answer": "Solid"
+                },
+                {
+                    "question": "The process of conversion of liquid to vapor is called:",
+                    "options": ["Condensation", "Evaporation", "Sublimation", "Melting"],
+                    "answer": "Evaporation"
+                },
+                {
+                    "question": "Dry ice is solid form of:",
+                    "options": ["Water", "Oxygen", "Carbon dioxide", "Nitrogen"],
+                    "answer": "Carbon dioxide"
+                }
+            ]
+        },
+        {
+            "subject": "Science",
+            "chapter": "Atoms and Molecules",
+            "topic": "Atomic Structure",
+            "title": "Basic Atomic Theory",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "Who proposed the atomic theory?",
+                    "options": ["Democritus", "John Dalton", "J.J. Thomson", "Rutherford"],
+                    "answer": "John Dalton"
+                },
+                {
+                    "question": "What is the atomic number of carbon?",
+                    "options": ["4", "6", "8", "12"],
+                    "answer": "6"
+                },
+                {
+                    "question": "The molecular formula of water is:",
+                    "options": ["HO", "H₂O", "H₂O₂", "HO₂"],
+                    "answer": "H₂O"
+                },
+                {
+                    "question": "One mole of any substance contains how many particles?",
+                    "options": ["6.022 × 10²³", "6.022 × 10²²", "6.022 × 10²⁴", "6.022 × 10²¹"],
+                    "answer": "6.022 × 10²³"
+                }
+            ]
+        },
+
+        {
+            "subject": "Social Science",
+            "chapter": "History - The French Revolution",
+            "topic": "Causes of French Revolution",
+            "title": "Background of French Revolution",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "The French Revolution began in which year?",
+                    "options": ["1789", "1790", "1791", "1792"],
+                    "answer": "1789"
+                },
+                {
+                    "question": "What was the slogan of French Revolution?",
+                    "options": ["Unity, Work, Progress", "Liberty, Equality, Fraternity", "Peace, Land, Bread", "Justice, Truth, Freedom"],
+                    "answer": "Liberty, Equality, Fraternity"
+                },
+                {
+                    "question": "The Estates General was convened by:",
+                    "options": ["Louis XIV", "Louis XV", "Louis XVI", "Napoleon"],
+                    "answer": "Louis XVI"
+                },
+                {
+                    "question": "Which estate paid all the taxes in pre-revolutionary France?",
+                    "options": ["First Estate", "Second Estate", "Third Estate", "All estates equally"],
+                    "answer": "Third Estate"
+                }
+            ]
+        },
+        {
+            "subject": "Social Science",
+            "chapter": "Geography - India: Size and Location",
+            "topic": "Physical Features of India",
+            "title": "Location and Extent of India",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "India lies in which hemisphere?",
+                    "options": ["Northern", "Southern", "Eastern", "Northern and Eastern"],
+                    "answer": "Northern and Eastern"
+                },
+                {
+                    "question": "The Tropic of Cancer passes through how many Indian states?",
+                    "options": ["6", "7", "8", "9"],
+                    "answer": "8"
+                },
+                {
+                    "question": "India's total area is approximately:",
+                    "options": ["3.28 million sq km", "2.28 million sq km", "4.28 million sq km", "1.28 million sq km"],
+                    "answer": "3.28 million sq km"
+                },
+                {
+                    "question": "Which is the southernmost point of India?",
+                    "options": ["Kanyakumari", "Indira Point", "Point Calimere", "Rann of Kutch"],
+                    "answer": "Indira Point"
+                }
+            ]
+        },
+        {
+            "subject": "Social Science",
+            "chapter": "Civics - What is Democracy?",
+            "topic": "Features of Democracy",
+            "title": "Understanding Democracy",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "In which country did democracy originate?",
+                    "options": ["Rome", "Greece", "India", "England"],
+                    "answer": "Greece"
+                },
+                {
+                    "question": "What is the minimum voting age in India?",
+                    "options": ["16 years", "18 years", "21 years", "25 years"],
+                    "answer": "18 years"
+                },
+                {
+                    "question": "Which of these is a feature of democracy?",
+                    "options": ["Rule by one person", "No elections", "Majority rule with minority rights", "No constitution"],
+                    "answer": "Majority rule with minority rights"
+                }
+            ]
+        },
+        {
+            "subject": "Social Science",
+            "chapter": "Economics - The Story of Village Palampur",
+            "topic": "Factors of Production",
+            "title": "Economic Activities in Villages",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "What are the four factors of production?",
+                    "options": ["Land, Labor, Capital, Technology", "Land, Labor, Capital, Entrepreneurship", "Soil, Water, Seeds, Fertilizer", "Farming, Industry, Services, Trade"],
+                    "answer": "Land, Labor, Capital, Entrepreneurship"
+                },
+                {
+                    "question": "What is the main activity in Palampur?",
+                    "options": ["Industry", "Farming", "Trade", "Services"],
+                    "answer": "Farming"
+                },
+                {
+                    "question": "Green Revolution is associated with:",
+                    "options": ["Environmental protection", "Increased agricultural production", "Forest conservation", "Water conservation"],
+                    "answer": "Increased agricultural production"
+                }
+            ]
+        }
+    ],
+
+    "grade10": [
+        {
+            "subject": "Mathematics",
+            "chapter": "Real Numbers",
+            "topic": "Fundamental Theorem of Arithmetic",
+            "title": "Prime Factorization",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "What is the HCF of 96 and 144?",
+                    "options": ["12", "24", "48", "16"],
+                    "answer": "48"
+                },
+                {
+                    "question": "The LCM of 12 and 18 is:",
+                    "options": ["36", "216", "6", "72"],
+                    "answer": "36"
+                },
+                {
+                    "question": "If HCF(a,b) = 12 and LCM(a,b) = 72, and a = 24, then b = ?",
+                    "options": ["36", "18", "48", "72"],
+                    "answer": "36"
+                },
+                {
+                    "question": "√2 is:",
+                    "options": ["Rational", "Irrational", "Integer", "Whole number"],
+                    "answer": "Irrational"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter": "Quadratic Equations",
+            "topic": "Solutions of Quadratic Equations",
+            "title": "Solving Quadratic Equations",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "The roots of x² - 5x + 6 = 0 are:",
+                    "options": ["2, 3", "1, 6", "-2, -3", "5, 1"],
+                    "answer": "2, 3"
+                },
+                {
+                    "question": "The discriminant of 2x² - 3x + 1 = 0 is:",
+                    "options": ["1", "9", "17", "-7"],
+                    "answer": "1"
+                },
+                {
+                    "question": "If the discriminant of a quadratic equation is negative, the roots are:",
+                    "options": ["Real and equal", "Real and unequal", "Not real", "Zero"],
+                    "answer": "Not real"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter": "Coordinate Geometry",
+            "topic": "Distance Formula",
+            "title": "Distance Between Points",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "Distance between points (3, 4) and (0, 0) is:",
+                    "options": ["5", "7", "25", "3"],
+                    "answer": "5"
+                },
+                {
+                    "question": "The section formula divides the line joining (x₁, y₁) and (x₂, y₂) in ratio m:n internally at:",
+                    "options": ["((mx₂+nx₁)/(m+n), (my₂+ny₁)/(m+n))", "((mx₁+nx₂)/(m+n), (my₁+ny₂)/(m+n))", "((x₁+x₂)/2, (y₁+y₂)/2)", "None"],
+                    "answer": "((mx₂+nx₁)/(m+n), (my₂+ny₁)/(m+n))"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter": "Trigonometry",
+            "topic": "Trigonometric Ratios",
+            "title": "Basic Trigonometric Ratios",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "What is sin 30°?",
+                    "options": ["1/2", "√3/2", "1", "0"],
+                    "answer": "1/2"
+                },
+                {
+                    "question": "What is tan 45°?",
+                    "options": ["1", "0", "√3", "1/√3"],
+                    "answer": "1"
+                },
+                {
+                    "question": "If sin θ = 3/5, then cos θ = ?",
+                    "options": ["4/5", "3/4", "5/4", "5/3"],
+                    "answer": "4/5"
+                }
+            ]
+        },
+        {
+            "subject": "Science",
+            "chapter": "Light - Reflection and Refraction",
+            "topic": "Laws of Reflection",
+            "title": "Reflection of Light",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "The angle of incidence is always _____ the angle of reflection.",
+                    "options": ["greater than", "less than", "equal to", "double"],
+                    "answer": "equal to"
+                },
+                {
+                    "question": "A concave mirror forms a real image when object is placed:",
+                    "options": ["At focus", "Between pole and focus", "Beyond center of curvature", "At infinity"],
+                    "answer": "Beyond center of curvature"
+                },
+                {
+                    "question": "The focal length of a convex lens is 20 cm. Its power is:",
+                    "options": ["+5D", "-5D", "+0.05D", "-0.05D"],
+                    "answer": "+5D"
+                },
+                {
+                    "question": "Myopia can be corrected using:",
+                    "options": ["Convex lens", "Concave lens", "Bifocal lens", "Cylindrical lens"],
+                    "answer": "Concave lens"
+                }
+            ]
+        },
+        {
+            "subject": "Science",
+            "chapter": "Acids, Bases and Salts",
+            "topic": "Properties and Uses",
+            "title": "Chemical Properties of Acids and Bases",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "What is the pH of pure water?",
+                    "options": ["0", "7", "14", "1"],
+                    "answer": "7"
+                },
+                {
+                    "question": "Which acid is present in ant sting?",
+                    "options": ["Acetic acid", "Formic acid", "Citric acid", "Lactic acid"],
+                    "answer": "Formic acid"
+                },
+                {
+                    "question": "Baking soda is chemically:",
+                    "options": ["NaCl", "NaHCO₃", "Na₂CO₃", "Ca(OH)₂"],
+                    "answer": "NaHCO₃"
+                },
+                {
+                    "question": "Universal indicator shows _____ color in neutral solution.",
+                    "options": ["Red", "Green", "Blue", "Yellow"],
+                    "answer": "Green"
+                }
+            ]
+        },
+        {
+            "subject": "Science",
+            "chapter": "Life Processes",
+            "topic": "Respiration",
+            "title": "Respiratory System",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "Which gas is taken in during respiration?",
+                    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+                    "answer": "Oxygen"
+                },
+                {
+                    "question": "The site of gaseous exchange in lungs is:",
+                    "options": ["Bronchi", "Bronchioles", "Alveoli", "Trachea"],
+                    "answer": "Alveoli"
+                },
+                {
+                    "question": "Anaerobic respiration in muscles produces:",
+                    "options": ["Ethanol", "Lactic acid", "Acetic acid", "Carbon dioxide only"],
+                    "answer": "Lactic acid"
+                }
+            ]
+        },
+        {
+            "subject": "Social Science",
+            "chapter": "History - Nationalism in India",
+            "topic": "Non-Cooperation Movement",
+            "title": "Indian Independence Movement",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "Who led the Non-Cooperation Movement?",
+                    "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Subhas Chandra Bose", "Bal Gangadhar Tilak"],
+                    "answer": "Mahatma Gandhi"
+                },
+                {
+                    "question": "The Non-Cooperation Movement was launched in which year?",
+                    "options": ["1919", "1920", "1921", "1922"],
+                    "answer": "1920"
+                },
+                {
+                    "question": "Which incident led to the withdrawal of Non-Cooperation Movement?",
+                    "options": ["Jallianwala Bagh", "Chauri Chaura", "Salt March", "Quit India"],
+                    "answer": "Chauri Chaura"
+                }
+            ]
+        },
+        {
+            "subject": "Social Science",
+            "chapter": "Geography - Resources and Development",
+            "topic": "Land Resources",
+            "title": "Land Use Patterns",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "What percentage of India's land area is arable?",
+                    "options": ["40%", "47%", "51%", "60%"],
+                    "answer": "47%"
+                },
+                {
+                    "question": "Black soil is suitable for cultivation of:",
+                    "options": ["Rice", "Wheat", "Cotton", "Tea"],
+                    "answer": "Cotton"
+                },
+                {
+                    "question": "The process of soil formation is called:",
+                    "options": ["Weathering", "Erosion", "Pedogenesis", "Leaching"],
+                    "answer": "Pedogenesis"
+                }
+            ]
+        }
+    ],
+
+    "grade11": [
+        {
+            "subject": "Physics",
+            "chapter": "Units and Measurement",
+            "topic": "Physical Quantities",
+            "title": "Fundamental and Derived Units",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "The SI unit of force is:",
+                    "options": ["Joule", "Newton", "Pascal", "Watt"],
+                    "answer": "Newton"
+                },
+                {
+                    "question": "Dimensional formula of power is:",
+                    "options": ["[ML²T⁻²]", "[ML²T⁻³]", "[MLT⁻²]", "[ML⁻¹T⁻³]"],
+                    "answer": "[ML²T⁻³]"
+                },
+                {
+                    "question": "Which of these is a vector quantity?",
+                    "options": ["Speed", "Distance", "Mass", "Velocity"],
+                    "answer": "Velocity"
+                },
+                {
+                    "question": "The number of significant figures in 0.00708 is:",
+                    "options": ["2", "3", "5", "6"],
+                    "answer": "3"
+                }
+            ]
+        },
+        {
+            "subject": "Physics",
+            "chapter": "Motion in a Straight Line",
+            "topic": "Uniformly Accelerated Motion",
+            "title": "Equations of Motion",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "Which equation relates velocity, acceleration, and displacement?",
+                    "options": ["v = u + at", "s = ut + ½at²", "v² = u² + 2as", "All of above"],
+                    "answer": "v² = u² + 2as"
+                },
+                {
+                    "question": "A body starts from rest and moves with acceleration 2 m/s². Its velocity after 5 seconds is:",
+                    "options": ["10 m/s", "2.5 m/s", "7 m/s", "25 m/s"],
+                    "answer": "10 m/s"
+                },
+                {
+                    "question": "The area under velocity-time graph gives:",
+                    "options": ["Acceleration", "Distance", "Speed", "Force"],
+                    "answer": "Distance"
+                }
+            ]
+        },
+        {
+            "subject": "Chemistry",
+            "chapter": "Some Basic Concepts of Chemistry",
+            "topic": "Atomic and Molecular Masses",
+            "title": "Mole Concept",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "Avogadro's number is approximately:",
+                    "options": ["6.022 × 10²³", "6.022 × 10²²", "6.022 × 10²⁴", "6.022 × 10²¹"],
+                    "answer": "6.022 × 10²³"
+                },
+                {
+                    "question": "The molecular mass of CO₂ is:",
+                    "options": ["28", "44", "32", "18"],
+                    "answer": "44"
+                },
+                {
+                    "question": "How many moles are present in 18 g of water?",
+                    "options": ["0.5", "1", "1.5", "2"],
+                    "answer": "1"
+                },
+                {
+                    "question": "The empirical formula of glucose (C₆H₁₂O₆) is:",
+                    "options": ["CHO", "CH₂O", "C₆H₁₂O₆", "C₃H₆O₃"],
+                    "answer": "CH₂O"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter": "Sets",
+            "topic": "Operations on Sets",
+            "title": "Union and Intersection of Sets",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "If A = {1, 2, 3} and B = {2, 3, 4}, then A ∪ B is:",
+                    "options": ["{1, 2, 3, 4}", "{2, 3}", "{1, 4}", "{1, 2, 3, 2, 3, 4}"],
+                    "answer": "{1, 2, 3, 4}"
+                },
+                {
+                    "question": "The complement of set A is denoted by:",
+                    "options": ["A'", "A^c", "Ā", "All of the above"],
+                    "answer": "All of the above"
+                },
+                {
+                    "question": "If n(A) = 5, n(B) = 3, and n(A ∩ B) = 2, then n(A ∪ B) is:",
+                    "options": ["6", "8", "10", "5"],
+                    "answer": "6"
+                }
+            ]
+        },
+        {
+            "subject": "Biology",
+            "chapter": "The Living World",
+            "topic": "Diversity in Living World",
+            "title": "Classification of Living Organisms",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "Who proposed the five-kingdom classification?",
+                    "options": ["Aristotle", "Linnaeus", "Whittaker", "Darwin"],
+                    "answer": "Whittaker"
+                },
+                {
+                    "question": "The basic unit of classification is:",
+                    "options": ["Kingdom", "Phylum", "Species", "Genus"],
+                    "answer": "Species"
+                },
+                {
+                    "question": "Binomial nomenclature was introduced by:",
+                    "options": ["Aristotle", "Linnaeus", "Darwin", "Mendel"],
+                    "answer": "Linnaeus"
+                },
+                {
+                    "question": "Which kingdom includes unicellular prokaryotes?",
+                    "options": ["Monera", "Protista", "Fungi", "Plantae"],
+                    "answer": "Monera"
+                }
+            ]
+        },
+        {
+            "subject": "English",
+            "chapter": "Prose",
+            "topic": "Reading Comprehension",
+            "title": "Understanding Literature",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "What is the main theme of 'The Portrait of a Lady'?",
+                    "options": ["Friendship", "Generation gap and love", "Adventure", "Social issues"],
+                    "answer": "Generation gap and love"
+                },
+                {
+                    "question": "Which literary device uses comparison with 'like' or 'as'?",
+                    "options": ["Metaphor", "Simile", "Personification", "Alliteration"],
+                    "answer": "Simile"
+                },
+                {
+                    "question": "The word 'protagonist' refers to:",
+                    "options": ["Villain", "Hero/main character", "Supporting character", "Narrator"],
+                    "answer": "Hero/main character"
+                }
+            ]
+        }
+    ],
+
+    "grade12": [
+        {
+            "subject": "Physics",
+            "chapter": "Electric Charges and Fields",
+            "topic": "Coulomb's Law",
+            "title": "Electrostatics",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "Coulomb's constant k has the value:",
+                    "options": ["9 × 10⁹ N⋅m²/C²", "8.85 × 10⁻¹² C²/N⋅m²", "1.6 × 10⁻¹⁹ C", "6.022 × 10²³"],
+                    "answer": "9 × 10⁹ N⋅m²/C²"
+                },
+                {
+                    "question": "Electric field due to a point charge varies as:",
+                    "options": ["1/r", "1/r²", "1/r³", "r²"],
+                    "answer": "1/r²"
+                },
+                {
+                    "question": "The SI unit of electric field intensity is:",
+                    "options": ["N/C", "C/N", "V/m", "Both A and C"],
+                    "answer": "Both A and C"
+                },
+                {
+                    "question": "Two charges repel each other with a force of 4N. If the distance between them is doubled, the new force will be:",
+                    "options": ["1N", "2N", "8N", "16N"],
+                    "answer": "1N"
+                }
+            ]
+        },
+        {
+            "subject": "Physics",
+            "chapter": "Current Electricity",
+            "topic": "Ohm's Law",
+            "title": "Electrical Circuits",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "Ohm's law is valid for:",
+                    "options": ["All materials", "Metals only", "Ohmic materials", "Semiconductors"],
+                    "answer": "Ohmic materials"
+                },
+                {
+                    "question": "The resistance of a conductor depends on:",
+                    "options": ["Length", "Cross-sectional area", "Material", "All of the above"],
+                    "answer": "All of the above"
+                },
+                {
+                    "question": "Power dissipated in a resistor is given by:",
+                    "options": ["P = VI", "P = I²R", "P = V²/R", "All of the above"],
+                    "answer": "All of the above"
+                }
+            ]
+        },
+        {
+            "subject": "Chemistry",
+            "chapter": "Solid State",
+            "topic": "Crystal Lattices",
+            "title": "Types of Solids",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "In face-centered cubic lattice, coordination number is:",
+                    "options": ["6", "8", "12", "4"],
+                    "answer": "12"
+                },
+                {
+                    "question": "Diamond has which type of crystal structure?",
+                    "options": ["Ionic", "Metallic", "Covalent", "Molecular"],
+                    "answer": "Covalent"
+                },
+                {
+                    "question": "Schottky defect is found in:",
+                    "options": ["AgBr", "ZnS", "NaCl", "Both A and C"],
+                    "answer": "Both A and C"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter": "Relations and Functions",
+            "topic": "Types of Functions",
+            "title": "Functions and Their Properties",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "A function f: A → B is said to be one-one if:",
+                    "options": ["f(x₁) = f(x₂) ⟹ x₁ = x₂", "Every element of B has preimage", "f is both injective and surjective", "None"],
+                    "answer": "f(x₁) = f(x₂) ⟹ x₁ = x₂"
+                },
+                {
+                    "question": "The domain of f(x) = √(x-2) is:",
+                    "options": ["x ≥ 2", "x > 2", "x ≤ 2", "All real numbers"],
+                    "answer": "x ≥ 2"
+                },
+                {
+                    "question": "If f(x) = 2x + 3, then f⁻¹(x) is:",
+                    "options": ["(x-3)/2", "(x+3)/2", "2x-3", "x/2 + 3"],
+                    "answer": "(x-3)/2"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter": "Calculus",
+            "topic": "Limits and Derivatives",
+            "title": "Introduction to Calculus",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "The derivative of sin x is:",
+                    "options": ["-cos x", "cos x", "-sin x", "sin x"],
+                    "answer": "cos x"
+                },
+                {
+                    "question": "If f(x) = x³, then f'(2) is:",
+                    "options": ["6", "8", "12", "4"],
+                    "answer": "12"
+                },
+                {
+                    "question": "The limit of (sin x)/x as x approaches 0 is:",
+                    "options": ["0", "1", "∞", "undefined"],
+                    "answer": "1"
+                }
+            ]
+        },
+        {
+            "subject": "Biology",
+            "chapter": "Reproduction in Organisms",
+            "topic": "Sexual Reproduction",
+            "title": "Types of Reproduction",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "Gametes are always:",
+                    "options": ["Diploid", "Haploid", "Polyploid", "Triploid"],
+                    "answer": "Haploid"
+                },
+                {
+                    "question": "In humans, fertilization occurs in:",
+                    "options": ["Ovary", "Uterus", "Fallopian tube", "Cervix"],
+                    "answer": "Fallopian tube"
+                },
+                {
+                    "question": "The process of formation of gametes is called:",
+                    "options": ["Mitosis", "Meiosis", "Gametogenesis", "Fertilization"],
+                    "answer": "Gametogenesis"
+                }
+            ]
+        },
+        {
+            "subject": "Accountancy",
+            "chapter": "Introduction to Accounting",
+            "topic": "Accounting Equation",
+            "title": "Basic Accounting Concepts",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "The accounting equation is:",
+                    "options": ["Assets = Liabilities + Capital", "Assets + Liabilities = Capital", "Assets = Capital - Liabilities", "None of these"],
+                    "answer": "Assets = Liabilities + Capital"
+                },
+                {
+                    "question": "Double entry system means:",
+                    "options": ["Two entries for each transaction", "Every debit has corresponding credit", "Recording in two books", "None of these"],
+                    "answer": "Every debit has corresponding credit"
+                },
+                {
+                    "question": "Which of these is a current asset?",
+                    "options": ["Building", "Cash", "Machinery", "Land"],
+                    "answer": "Cash"
+                }
+            ]
+        },
+        {
+            "subject": "Business Studies",
+            "chapter": "Nature and Significance of Management",
+            "topic": "Functions of Management",
+            "title": "Management Principles",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "The first function of management is:",
+                    "options": ["Planning", "Organizing", "Directing", "Controlling"],
+                    "answer": "Planning"
+                },
+                {
+                    "question": "Who is known as the father of modern management?",
+                    "options": ["Henri Fayol", "F.W. Taylor", "Max Weber", "Elton Mayo"],
+                    "answer": "Henri Fayol"
+                },
+                {
+                    "question": "Management is:",
+                    "options": ["An art", "A science", "Both art and science", "Neither art nor science"],
+                    "answer": "Both art and science"
+                }
+            ]
+        },
+        {
+            "subject": "Economics",
+            "chapter": "Introduction to Microeconomics",
+            "topic": "Central Problems of Economy",
+            "title": "Economic Systems",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "The three basic economic problems are:",
+                    "options": ["What, How, When", "What, How, For whom", "Where, When, How", "Why, What, How"],
+                    "answer": "What, How, For whom"
+                },
+                {
+                    "question": "Opportunity cost refers to:",
+                    "options": ["Money cost", "Real cost", "Alternative foregone", "Accounting cost"],
+                    "answer": "Alternative foregone"
+                },
+                {
+                    "question": "Scarcity in economics means:",
+                    "options": ["Shortage", "Limited resources relative to wants", "Poverty", "Unavailability"],
+                    "answer": "Limited resources relative to wants"
+                }
+            ]
+        },
+        {
+            "subject": "History",
+            "chapter": "Themes in World History",
+            "topic": "The French Revolution",
+            "title": "European Revolutions",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "The French Revolution began in:",
+                    "options": ["1789", "1790", "1791", "1792"],
+                    "answer": "1789"
+                },
+                {
+                    "question": "The Declaration of Rights of Man was adopted in:",
+                    "options": ["1789", "1791", "1793", "1795"],
+                    "answer": "1789"
+                },
+                {
+                    "question": "Robespierre was associated with:",
+                    "options": ["Girondins", "Jacobins", "Royalists", "Moderates"],
+                    "answer": "Jacobins"
+                }
+            ]
+        },
+        {
+            "subject": "Political Science",
+            "chapter": "Political Theory",
+            "topic": "What is Politics?",
+            "title": "Introduction to Politics",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "Politics is primarily concerned with:",
+                    "options": ["Power", "Welfare", "Justice", "All of these"],
+                    "answer": "All of these"
+                },
+                {
+                    "question": "The word 'Politics' is derived from:",
+                    "options": ["Latin", "Greek", "French", "German"],
+                    "answer": "Greek"
+                },
+                {
+                    "question": "Who said 'Man is a political animal'?",
+                    "options": ["Plato", "Aristotle", "Socrates", "Cicero"],
+                    "answer": "Aristotle"
+                }
+            ]
+        },
+        {
+            "subject": "Psychology",
+            "chapter": "Introduction to Psychology",
+            "topic": "Methods of Psychology",
+            "title": "Understanding Human Behavior",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "Psychology is the scientific study of:",
+                    "options": ["Mind", "Behavior", "Mental processes", "All of these"],
+                    "answer": "All of these"
+                },
+                {
+                    "question": "Who established the first psychology laboratory?",
+                    "options": ["Freud", "Jung", "Wundt", "Watson"],
+                    "answer": "Wundt"
+                },
+                {
+                    "question": "Introspection as a method was used by:",
+                    "options": ["Behaviorists", "Structuralists", "Functionalists", "Humanists"],
+                    "answer": "Structuralists"
+                }
+            ]
+        },
+        {
+            "subject": "Sociology",
+            "chapter": "Introduction to Sociology",
+            "topic": "Social Structure",
+            "title": "Understanding Society",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "Who coined the term 'Sociology'?",
+                    "options": ["Durkheim", "Weber", "Marx", "Comte"],
+                    "answer": "Comte"
+                },
+                {
+                    "question": "Primary group was a concept given by:",
+                    "options": ["Cooley", "Mead", "Thomas", "Park"],
+                    "answer": "Cooley"
+                },
+                {
+                    "question": "Social stratification refers to:",
+                    "options": ["Social change", "Social mobility", "Social inequality", "Social interaction"],
+                    "answer": "Social inequality"
+                }
+            ]
+        },
+        {
+            "subject": "Hindi",
+            "chapter": "गद्य (Prose)",
+            "topic": "कहानी (Stories)",
+            "title": "हिंदी साहित्य (Hindi Literature)",
+            "difficulty": "medium",
+            "questions": [
+                {
+                    "question": "'मुंशी प्रेमचंद' को किस उपाधि से नवाजा गया?",
+                    "options": ["कलम का सिपाही", "उपन्यास सम्राट", "कहानी के राजा", "साहित्य रत्न"],
+                    "answer": "उपन्यास सम्राट"
+                },
+                {
+                    "question": "'गोदान' किसकी रचना है?",
+                    "options": ["हरिशंकर परसाई", "मुंशी प्रेमचंद", "जयशंकर प्रसाद", "सूर्यकांत त्रिपाठी निराला"],
+                    "answer": "मुंशी प्रेमचंद"
+                },
+                {
+                    "question": "छायावाद के प्रमुख कवि कौन हैं?",
+                    "options": ["तुलसीदास", "सूरदास", "जयशंकर प्रसाद", "कबीरदास"],
+                    "answer": "जयशंकर प्रसाद"
+                }
+            ]
+        },
+        {
+            "subject": "Sanskrit",
+            "chapter": "व्याकरण (Grammar)",
+            "topic": "संधि (Sandhi)",
+            "title": "संस्कृत व्याकरण",
+            "difficulty": "hard",
+            "questions": [
+                {
+                    "question": "'गुरु + उपदेश' की संधि है:",
+                    "options": ["गुरुपदेश", "गुरूपदेश", "गुरुउपदेश", "गुर्वुपदेश"],
+                    "answer": "गुर्वुपदेश"
+                },
+                {
+                    "question": "'सत् + चित्' की संधि है:",
+                    "options": ["सच्चित्", "सत्चित्", "सचित्", "सत्त्चित्"],
+                    "answer": "सच्चित्"
+                },
+                {
+                    "question": "स्वर संधि के कितने भेद हैं?",
+                    "options": ["3", "4", "5", "6"],
+                    "answer": "5"
+                }
+            ]
+        }
+    ]
+}
